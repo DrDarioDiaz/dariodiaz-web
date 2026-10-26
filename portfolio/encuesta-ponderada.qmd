@@ -3,6 +3,7 @@ title: "Cuando el promedio simple engaña"
 subtitle: "Análisis de una encuesta de clima laboral con ponderadores y errores estándar según el diseño"
 description: "Estimación ponderada, efecto de diseño y errores estándar por linealización en una muestra estratificada por conglomerados."
 date: 2026-10-22
+image: ../img/casos/encuesta-ponderada.png
 categories: [Análisis de encuestas, Ponderación, Python]
 jupyter: python3
 ---

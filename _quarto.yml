@@ -7,6 +7,7 @@ project:
   resources:
     - CNAME
     - img/
+    - "!img/casos/generar_miniaturas.py"
 
 lang: es
 
@@ -60,6 +61,7 @@ format:
     theme:
       light: [flatly, styles.scss]
     toc: false
+    title-block-banner: true
     smooth-scroll: true
     code-fold: true
     code-summary: "Ver código"

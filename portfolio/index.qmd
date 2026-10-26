@@ -8,7 +8,8 @@ listing:
     - "!index.qmd"
   type: grid
   sort: "date desc"
-  fields: [title, description, categories, date]
+  fields: [image, title, description, categories, date]
+  image-height: 240px
   categories: true
   date-format: "MMMM YYYY"
   grid-columns: 2

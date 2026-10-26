@@ -7,7 +7,11 @@ description: "Diseño muestral, diseño de cuestionarios, análisis de datos de 
 Cada servicio puede contratarse por separado o como parte de un proyecto integral. En todos los casos la propuesta se define por escrito, con alcance, método, cronograma y honorarios, antes de iniciar el trabajo.
 
 ::: {.servicio}
-## Diseño de muestras
+## Diseño de muestras {#muestras}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><g fill="none" stroke="#9aa5b1" stroke-width="1.6"><circle cx="9" cy="9" r="3"/><circle cx="19" cy="9" r="3"/><circle cx="39" cy="9" r="3"/><circle cx="9" cy="19" r="3"/><circle cx="29" cy="19" r="3"/><circle cx="39" cy="19" r="3"/><circle cx="19" cy="29" r="3"/><circle cx="29" cy="29" r="3"/><circle cx="9" cy="39" r="3"/><circle cx="29" cy="39" r="3"/><circle cx="39" cy="39" r="3"/></g><g fill="#1f6f57"><circle cx="29" cy="9" r="3.6"/><circle cx="19" cy="19" r="3.6"/><circle cx="39" cy="29" r="3.6"/><circle cx="9" cy="29" r="3.6"/><circle cx="19" cy="39" r="3.6"/></g></svg>
+```
 
 Una encuesta vale lo que vale su muestra. Diseño relevamientos probabilísticos para estudios de mercado, satisfacción de clientes, clima organizacional, opinión de socios o asociados y relevamientos sectoriales de cámaras empresarias.
 
@@ -21,7 +25,11 @@ Una encuesta vale lo que vale su muestra. Diseño relevamientos probabilísticos
 :::
 
 ::: {.servicio}
-## Diseño de cuestionarios y formularios
+## Diseño de cuestionarios y formularios {#cuestionarios}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><rect x="9" y="6" width="30" height="38" rx="3" fill="none" stroke="#1c2733" stroke-width="1.8"/><rect x="18" y="3" width="12" height="6" rx="2" fill="#b4532a"/><g stroke="#1f6f57" stroke-width="2" fill="none" stroke-linecap="round"><path d="M14 17l2.5 2.5L21 15"/><path d="M14 27l2.5 2.5L21 25"/></g><rect x="14" y="34" width="6" height="6" rx="1" fill="none" stroke="#9aa5b1" stroke-width="1.6"/><g stroke="#9aa5b1" stroke-width="2" stroke-linecap="round"><line x1="25" y1="18" x2="34" y2="18"/><line x1="25" y1="28" x2="34" y2="28"/><line x1="25" y1="37" x2="34" y2="37"/></g></svg>
+```
 
 Las preguntas mal formuladas producen datos que ningún modelo puede corregir. Construyo y reviso instrumentos de relevamiento para encuestas presenciales, telefónicas y en línea, así como formularios administrativos que luego se analizarán.
 
@@ -35,7 +43,11 @@ Las preguntas mal formuladas producen datos que ningún modelo puede corregir. C
 :::
 
 ::: {.servicio}
-## Análisis de datos de encuestas
+## Análisis de datos de encuestas {#encuestas}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><line x1="5" y1="43" x2="44" y2="43" stroke="#1c2733" stroke-width="1.8"/><rect x="9" y="22" width="8" height="21" rx="1.5" fill="#9aa5b1"/><rect x="21" y="14" width="8" height="29" rx="1.5" fill="#1f6f57"/><rect x="33" y="26" width="8" height="17" rx="1.5" fill="#b4532a"/><g stroke="#1c2733" stroke-width="1.6"><path d="M13 17v10M11 17h4M11 27h4"/><path d="M25 8v12M23 8h4M23 20h4"/><path d="M37 21v10M35 21h4M35 31h4"/></g></svg>
+```
 
 Proceso y analizo encuestas propias del cliente o encuestas públicas, respetando el diseño muestral en la estimación.
 
@@ -49,7 +61,11 @@ Proceso y analizo encuestas propias del cliente o encuestas públicas, respetand
 :::
 
 ::: {.servicio}
-## Ciencia de datos y aprendizaje automático
+## Ciencia de datos y aprendizaje automático {#ciencia-de-datos}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><g fill="#1f6f57"><circle cx="10" cy="12" r="3"/><circle cx="16" cy="8" r="3"/><circle cx="14" cy="18" r="3"/><circle cx="21" cy="14" r="3"/><circle cx="8" cy="22" r="3"/></g><g fill="#b4532a"><circle cx="32" cy="34" r="3"/><circle cx="38" cy="30" r="3"/><circle cx="36" cy="40" r="3"/><circle cx="42" cy="37" r="3"/><circle cx="28" cy="40" r="3"/></g><g fill="#9aa5b1"><circle cx="34" cy="12" r="3"/><circle cx="40" cy="16" r="3"/><circle cx="36" cy="20" r="3"/></g><path d="M4 34 C 18 30, 26 22, 44 4" fill="none" stroke="#1c2733" stroke-width="1.6" stroke-dasharray="3 3"/></svg>
+```
 
 Transformo los datos que la organización ya tiene en herramientas para decidir.
 
@@ -63,7 +79,11 @@ Transformo los datos que la organización ya tiene en herramientas para decidir.
 :::
 
 ::: {.servicio}
-## Análisis económico
+## Análisis económico {#analisis-economico}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><path d="M6 4v38h38" fill="none" stroke="#1c2733" stroke-width="1.8"/><polyline points="10,34 18,28 25,31 33,19 41,11" fill="none" stroke="#1f6f57" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/><path d="M35 10l6 1-1 6" fill="none" stroke="#1f6f57" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><polyline points="10,38 18,36 25,37 33,33 41,31" fill="none" stroke="#b4532a" stroke-width="1.8" stroke-dasharray="3 3"/></svg>
+```
 
 Aporto la mirada del economista a decisiones de inversión, precios y estrategia.
 
@@ -76,7 +96,11 @@ Aporto la mirada del economista a decisiones de inversión, precios y estrategia
 :::
 
 ::: {.servicio}
-## Cursos y capacitaciones
+## Cursos y capacitaciones {#capacitaciones}
+
+```{=html}
+<svg class="icono-servicio" aria-hidden="true" viewBox="0 0 48 48"><rect x="5" y="5" width="38" height="26" rx="2" fill="none" stroke="#1c2733" stroke-width="1.8"/><path d="M24 31v8M16 44l8-5 8 5" fill="none" stroke="#1c2733" stroke-width="1.8" stroke-linecap="round"/><path d="M10 25 C 16 25, 18 11, 24 11 S 32 25, 38 25" fill="none" stroke="#1f6f57" stroke-width="2.2"/><circle cx="24" cy="11" r="2.4" fill="#b4532a"/></svg>
+```
 
 Diseño y dicto formación a medida para equipos de empresas, cámaras, colegios profesionales y organizaciones. El detalle de la oferta está en [Capacitaciones](capacitaciones.qmd).
 :::

@@ -3,6 +3,7 @@ title: "Siete errores frecuentes al redactar un cuestionario"
 subtitle: "Revisión de un formulario de satisfacción antes de salir a campo"
 description: "Ejemplos de preguntas sesgadas, ambiguas o dobles, con su corrección y la razón metodológica de cada cambio."
 date: 2026-10-24
+image: ../img/casos/cuestionario.png
 categories: [Diseño de cuestionarios, Encuestas]
 ---
 
@@ -11,6 +12,8 @@ categories: [Diseño de cuestionarios, Encuestas]
 Una cooperativa de servicios preparó, con buena voluntad y sin asesoramiento, un formulario en línea para medir la satisfacción de sus asociados. Antes de enviarlo a varios miles de personas, pidió una revisión. Las preguntas que siguen son representativas de lo encontrado; cada una se acompaña de su corrección y del motivo del cambio.
 
 Una pregunta mal formulada no se arregla después con estadística. El sesgo que introduce queda en los datos, y ningún modelo, por sofisticado que sea, puede distinguirlo de la opinión genuina de quien responde.
+
+![Distribución de respuestas a una misma pregunta según su redacción. Datos ilustrativos: una formulación inductiva desplaza las respuestas hacia el acuerdo.](../img/casos/cuestionario.png){fig-alt="Barras apiladas que comparan respuestas a una pregunta neutral y a una inductiva"}
 
 ## Los errores y sus correcciones
 

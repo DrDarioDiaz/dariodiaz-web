@@ -3,6 +3,7 @@ title: "Cuántos clientes encuestar y a quiénes"
 subtitle: "Diseño muestral estratificado para una encuesta a clientes de un distribuidor mayorista"
 description: "Cálculo del tamaño de muestra con información auxiliar, asignación óptima de Neyman y verificación por simulación: la misma precisión con una fracción de las encuestas."
 date: 2026-10-20
+image: ../img/casos/diseno-muestral.png
 categories: [Diseño muestral, Encuestas, Python]
 jupyter: python3
 ---
