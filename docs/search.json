@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "sobre-mi.html",
+    "href": "sobre-mi.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy economista de formación y estadístico por vocación. Trabajo en la intersección entre la estadística, la econometría y la ciencia de datos, con un interés particular por la calidad de la medición: cómo se diseña una muestra, cómo se formula una pregunta y cómo se estima correctamente a partir de datos imperfectos. Vivo en Posadas, Misiones, y trabajo con organizaciones de todo el país en modalidad presencial o remota.\nMi recorrido combina la docencia universitaria, la investigación aplicada y la dirección técnica de proyectos. Esa combinación define mi manera de trabajar como consultor: rigor metodológico, código reproducible y resultados explicados con claridad a quien debe tomar decisiones."
+  },
+  {
+    "objectID": "sobre-mi.html#formación",
+    "href": "sobre-mi.html#formación",
+    "title": "Sobre mí",
+    "section": "Formación",
+    "text": "Formación\nTítulos obtenidos\n\nDoctor en Ciencias Económicas, mención Economía, Universidad Nacional de Córdoba (2014). Calificación sobresaliente.\nMagíster en Econometría, Universidad Torcuato Di Tella (2026).\nMagíster en Métodos Cuantitativos para la Gestión y Análisis de Datos en Organizaciones, Universidad de Buenos Aires (2026).\nMagíster en Políticas Públicas y Desarrollo, FLACSO Argentina (2026).\nMagíster en Explotación de Datos y Gestión del Conocimiento, Universidad Austral (2025).\nPosdoctorado en Retos Poblacionales Actuales, Universidad Nacional de Córdoba (2022).\nLicenciado en Economía, Universidad Nacional de Misiones (2008). Diploma de honor y Premio Héctor Alejandro Chemes al mejor promedio.\n\nEn curso\n\nDoctorado en Estadística, Universidad Nacional de Rosario.\nPosdoctorado en Inteligencia Artificial y sus Aplicaciones en Ciencias Sociales, Universidad Nacional de Córdoba.\nMaestría en Políticas Económicas, Sociales y Regionales, Universidad Nacional de Córdoba.\n\nMatrícula profesional de economista LE23, Consejo Profesional de Ciencias Económicas de la Provincia de Misiones."
+  },
+  {
+    "objectID": "sobre-mi.html#docencia",
+    "href": "sobre-mi.html#docencia",
+    "title": "Sobre mí",
+    "section": "Docencia",
+    "text": "Docencia\nDesde 2008 enseño en carreras de grado y posgrado en universidades de Argentina y Paraguay. Actualmente dicto Probabilidad y Estadística, Economía y Costos, Investigación Operativa y Proyecto Final de Grado en la Universidad de la Cuenca del Plata, y Metodología Cuantitativa, Metodología Cualitativa y Economía Política Internacional en la Universidad Católica de Santa Fe. He sido docente en la Universidad Tecnológica Nacional, la Universidad Austral, la Universidad Gastón Dachary, la Universidad Siglo 21, la Universidad Nacional de Misiones y la Universidad Autónoma de Encarnación, y he dictado cursos para la Sociedad Argentina de Estadística."
+  },
+  {
+    "objectID": "sobre-mi.html#investigación-y-gestión-académica",
+    "href": "sobre-mi.html#investigación-y-gestión-académica",
+    "title": "Sobre mí",
+    "section": "Investigación y gestión académica",
+    "text": "Investigación y gestión académica\n\nDirector técnico del Observatorio de Desarrollo Económico de Misiones, Universidad Gastón Dachary (2019-2022).\nCoordinador académico e integrante de la Comisión Académica del Doctorado en Desarrollo Sustentable e Integración, Universidad Gastón Dachary (2019-2022).\nInvestigador del área Economía del Centro de Estudios Científicos y Técnicos de la Federación Argentina de Consejos Profesionales de Ciencias Económicas (2019-2021).\nDirector de proyecto de I+D sobre el impacto de la pandemia en el sector hotelero y gastronómico de Misiones (2020-2022).\nDirector de tesis de doctorado y de trabajos finales de grado; jurado de tesis y evaluador de artículos científicos.\nBecario de la Agencia Nacional de Promoción Científica y Tecnológica (2009-2013).\n\nLíneas de trabajo: ciencia de datos aplicada, diseño muestral y métodos de encuesta, medición de la eficiencia y la productividad, competitividad y desarrollo regional, resiliencia económica y progreso social, economía del comportamiento y economía de la energía."
+  },
+  {
+    "objectID": "sobre-mi.html#publicaciones-seleccionadas",
+    "href": "sobre-mi.html#publicaciones-seleccionadas",
+    "title": "Sobre mí",
+    "section": "Publicaciones seleccionadas",
+    "text": "Publicaciones seleccionadas\n\nDíaz, D. E. (2023). La escasez ecológica como problema de la economía ambiental. Propuesta de un modelo de utilización de la tierra aplicado a los servicios ecosistémicos del capital natural. SaberEs, 15(2), 195-219.\nDíaz, D. E. (2022). El progreso social, el individualismo y el enfoque de capacidades: el rol de las estructuras sociales, grupos e instituciones. Revista de Economía Política de Buenos Aires, 25, 9-36.\nDíaz, D. E. y Ojeda, M. N. (2020). Estimación de la brecha de ingresos entre la mujer y el hombre. Revista Electrónica Iberoamericana, 14(1), 77-117.\nDíaz, D. E., Alvarez, B. M. y Ojeda, N. M. (2020). Competitividad regional y desarrollo económico: una breve revisión de la literatura económica moderna. Revista de Economía Política de Buenos Aires, 20(14), 109-153.\nDíaz, D. E. (2013). La distribución eléctrica en Argentina y su eficiencia técnica: una aplicación del análisis de fronteras estocásticas (SFA) utilizando funciones distancia. Revista de Economía y Estadística, 51(1), 85-118.\n\nIdiomas: español nativo; inglés y portugués, lectocomprensión y traducción.\nTrabajemos juntos →"
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Estos casos muestran cómo abordo problemas frecuentes en las organizaciones. Todos utilizan datos simulados o fuentes públicas, nunca información de clientes, y el código completo de cada uno puede desplegarse con el botón Ver código y está disponible en mi repositorio de GitHub.\n\n\n\n\n\n\n\n\n\n\n\nSiete errores frecuentes al redactar un cuestionario\n\n\n\nDiseño de cuestionarios\n\nEncuestas\n\n\n\nEjemplos de preguntas sesgadas, ambiguas o dobles, con su corrección y la razón metodológica de cada cambio.\n\n\n\noctubre 2026\n\n\n\n\n\n\n\n\n\n\nCuando el promedio simple engaña\n\n\n\nAnálisis de encuestas\n\nPonderación\n\nPython\n\n\n\nEstimación ponderada, efecto de diseño y errores estándar por linealización en una muestra estratificada por conglomerados.\n\n\n\noctubre 2026\n\n\n\n\n\n\n\n\n\n\nCuántos clientes encuestar y a quiénes\n\n\n\nDiseño muestral\n\nEncuestas\n\nPython\n\n\n\nCálculo del tamaño de muestra con información auxiliar, asignación óptima de Neyman y verificación por simulación: la misma precisión con una fracción de las encuestas.\n\n\n\noctubre 2026\n\n\n\n\n\n\nNo hay resultados\n Volver arriba"
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html",
+    "href": "portfolio/diseno-muestral.html",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "",
+    "text": "Un distribuidor mayorista con 4.000 clientes activos quiere estimar cuánto prevén gastar sus clientes en la próxima temporada, con el fin de planificar compras y stock. Encuestar a todos resulta caro y lento. La pregunta concreta es doble: cuántos clientes encuestar para que el error sea aceptable y cómo repartir esa muestra entre comercios pequeños, medianos y grandes.\nLos datos de este caso son simulados, pero reproducen un rasgo típico de las carteras comerciales: unos pocos clientes grandes concentran buena parte de las compras y presentan, además, la mayor dispersión. El distribuidor cuenta con un activo valioso que a menudo se desaprovecha: su sistema de ventas registra cuánto compró cada cliente el año anterior, y esa información sirve para planificar la muestra.\n\n\nVer código\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nrng = np.random.default_rng(2026)\n\n# Marco muestral: cartera de clientes clasificada por tamaño\nestratos = pd.DataFrame({\n    \"estrato\": [\"Pequeños\", \"Medianos\", \"Grandes\"],\n    \"N_h\": [2800, 900, 300],\n    \"mediana_gasto\": [1.2, 4.5, 18.0],   # millones de pesos\n    \"dispersion\": [0.55, 0.60, 0.70],    # sigma del logaritmo\n})\n\npoblacion = pd.concat([\n    pd.DataFrame({\n        \"estrato\": r.estrato,\n        \"gasto\": rng.lognormal(np.log(r.mediana_gasto), r.dispersion, r.N_h),\n    })\n    for r in estratos.itertuples()\n], ignore_index=True)\n\n# El marco incluye las compras del año anterior de cada cliente, muy correlacionadas con el gasto previsto\npoblacion[\"compras_previas\"] = poblacion.gasto * rng.lognormal(0, 0.25, len(poblacion))\n\nN = len(poblacion)\nresumen = (poblacion.groupby(\"estrato\", sort=False)[\"gasto\"]\n           .agg(N_h=\"size\", media=\"mean\", desvio=\"std\", total=\"sum\")\n           .assign(participacion_en_gasto=lambda d: d.total / d.total.sum()))\nresumen.round(2)\n\n\n\n\n\n\n\n\n\nN_h\nmedia\ndesvio\ntotal\nparticipacion_en_gasto\n\n\nestrato\n\n\n\n\n\n\n\n\n\nPequeños\n2800\n1.37\n0.81\n3834.41\n0.24\n\n\nMedianos\n900\n5.43\n3.40\n4890.87\n0.30\n\n\nGrandes\n300\n24.95\n23.13\n7484.52\n0.46\n\n\n\n\n\n\n\nEl cuadro muestra el problema: los clientes grandes son apenas el 7,5 % de la cartera, pero explican una porción del gasto muy superior y concentran la variabilidad."
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html#la-pregunta-del-cliente",
+    "href": "portfolio/diseno-muestral.html#la-pregunta-del-cliente",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "",
+    "text": "Un distribuidor mayorista con 4.000 clientes activos quiere estimar cuánto prevén gastar sus clientes en la próxima temporada, con el fin de planificar compras y stock. Encuestar a todos resulta caro y lento. La pregunta concreta es doble: cuántos clientes encuestar para que el error sea aceptable y cómo repartir esa muestra entre comercios pequeños, medianos y grandes.\nLos datos de este caso son simulados, pero reproducen un rasgo típico de las carteras comerciales: unos pocos clientes grandes concentran buena parte de las compras y presentan, además, la mayor dispersión. El distribuidor cuenta con un activo valioso que a menudo se desaprovecha: su sistema de ventas registra cuánto compró cada cliente el año anterior, y esa información sirve para planificar la muestra.\n\n\nVer código\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nrng = np.random.default_rng(2026)\n\n# Marco muestral: cartera de clientes clasificada por tamaño\nestratos = pd.DataFrame({\n    \"estrato\": [\"Pequeños\", \"Medianos\", \"Grandes\"],\n    \"N_h\": [2800, 900, 300],\n    \"mediana_gasto\": [1.2, 4.5, 18.0],   # millones de pesos\n    \"dispersion\": [0.55, 0.60, 0.70],    # sigma del logaritmo\n})\n\npoblacion = pd.concat([\n    pd.DataFrame({\n        \"estrato\": r.estrato,\n        \"gasto\": rng.lognormal(np.log(r.mediana_gasto), r.dispersion, r.N_h),\n    })\n    for r in estratos.itertuples()\n], ignore_index=True)\n\n# El marco incluye las compras del año anterior de cada cliente, muy correlacionadas con el gasto previsto\npoblacion[\"compras_previas\"] = poblacion.gasto * rng.lognormal(0, 0.25, len(poblacion))\n\nN = len(poblacion)\nresumen = (poblacion.groupby(\"estrato\", sort=False)[\"gasto\"]\n           .agg(N_h=\"size\", media=\"mean\", desvio=\"std\", total=\"sum\")\n           .assign(participacion_en_gasto=lambda d: d.total / d.total.sum()))\nresumen.round(2)\n\n\n\n\n\n\n\n\n\nN_h\nmedia\ndesvio\ntotal\nparticipacion_en_gasto\n\n\nestrato\n\n\n\n\n\n\n\n\n\nPequeños\n2800\n1.37\n0.81\n3834.41\n0.24\n\n\nMedianos\n900\n5.43\n3.40\n4890.87\n0.30\n\n\nGrandes\n300\n24.95\n23.13\n7484.52\n0.46\n\n\n\n\n\n\n\nEl cuadro muestra el problema: los clientes grandes son apenas el 7,5 % de la cartera, pero explican una porción del gasto muy superior y concentran la variabilidad."
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html#paso-1.-cuántas-respuestas-hacen-falta-según-cómo-se-diseñe-la-muestra",
+    "href": "portfolio/diseno-muestral.html#paso-1.-cuántas-respuestas-hacen-falta-según-cómo-se-diseñe-la-muestra",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "Paso 1. Cuántas respuestas hacen falta según cómo se diseñe la muestra",
+    "text": "Paso 1. Cuántas respuestas hacen falta según cómo se diseñe la muestra\nSe fija como meta un error relativo máximo del 5 % sobre el gasto medio, con un 95 % de confianza; es decir, que la estimación no se aparte en más de un 5 % del valor verdadero en 19 de cada 20 muestras. Las varianzas de planificación se toman de las compras del año anterior, disponibles para todos los clientes del marco.\nCon \\(V_0 = \\left(e_r\\,\\bar Y / z\\right)^2\\) como varianza máxima admisible, los tamaños necesarios para cada diseño son\n\\[\nn_{\\text{MAS}} = \\frac{S^2}{V_0 + S^2/N}, \\qquad\nn_{\\text{prop}} = \\frac{\\sum_h W_h S_h^2}{V_0 + \\sum_h W_h S_h^2 / N}, \\qquad\nn_{\\text{Neyman}} = \\frac{\\left(\\sum_h W_h S_h\\right)^2}{V_0 + \\sum_h W_h S_h^2 / N},\n\\]\ndonde \\(W_h = N_h/N\\) es el peso de cada estrato y \\(S_h\\) su desvío estándar. La asignación proporcional reparte la muestra según el tamaño de cada estrato; la de Neyman la reparte según tamaño y dispersión, \\(n_h = n\\,N_h S_h / \\sum_k N_k S_k\\).\n\n\nVer código\nz, error_relativo, tasa_respuesta = 1.96, 0.05, 0.70\n\nplan = (poblacion.groupby(\"estrato\", sort=False)[\"compras_previas\"]\n        .agg(N_h=\"size\", media=\"mean\", S_h=\"std\"))\nplan[\"W_h\"] = plan.N_h / N\nmedia_plan = (plan.W_h * plan.media).sum()\nS_plan = poblacion.compras_previas.std()\nV0 = (error_relativo * media_plan / z) ** 2\nfpc = (plan.W_h * plan.S_h**2).sum() / N\n\nn_requerido = pd.Series({\n    \"Aleatorio simple\": S_plan**2 / (V0 + S_plan**2 / N),\n    \"Estratificado proporcional\": (plan.W_h * plan.S_h**2).sum() / (V0 + fpc),\n    \"Estratificado Neyman\": (plan.W_h * plan.S_h).sum() ** 2 / (V0 + fpc),\n}).apply(np.ceil).astype(int)\n\ntabla_n = pd.DataFrame({\n    \"Respuestas necesarias\": n_requerido,\n    \"Clientes a contactar (70 % de respuesta)\": np.ceil(n_requerido / tasa_respuesta).astype(int),\n    \"Porcentaje de la cartera\": (100 * n_requerido / tasa_respuesta / N).round(1),\n})\ntabla_n\n\n\n\n\n\n\n\n\n\nRespuestas necesarias\nClientes a contactar (70 % de respuesta)\nPorcentaje de la cartera\n\n\n\n\nAleatorio simple\n2529\n3613\n90.3\n\n\nEstratificado proporcional\n1857\n2653\n66.3\n\n\nEstratificado Neyman\n487\n696\n17.4\n\n\n\n\n\n\n\n\n\nVer código\nfig, ax = plt.subplots(figsize=(7.5, 2.8))\ncolores = [\"#9aa5b1\", \"#b4532a\", \"#1f6f57\"]\nbarras = ax.barh(n_requerido.index[::-1], n_requerido.values[::-1], color=colores[::-1], height=0.55)\nax.bar_label(barras, labels=[f\"{v:,}\".replace(\",\", \".\") for v in n_requerido.values[::-1]], padding=4)\nax.set_xlabel(\"Respuestas efectivas\")\nax.set_xlim(0, n_requerido.max() * 1.15)\nax.spines[[\"top\", \"right\"]].set_visible(False)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigura 1: Respuestas efectivas necesarias para un error relativo del 5 % con 95 % de confianza, según el diseño muestral.\n\n\n\n\n\nEl resultado cambia por completo la conversación con el cliente. Un muestreo aleatorio simple exigiría encuestar a más de la mitad de la cartera, lo que en la práctica equivale a un censo. Estratificar por tamaño sin más ayuda poco, porque la asignación proporcional sigue destinando la mayoría de las encuestas a los comercios pequeños, donde casi no hay variabilidad. La asignación de Neyman obtiene la misma precisión con una fracción de las respuestas."
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html#paso-2.-a-quiénes-encuestar",
+    "href": "portfolio/diseno-muestral.html#paso-2.-a-quiénes-encuestar",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "Paso 2. A quiénes encuestar",
+    "text": "Paso 2. A quiénes encuestar\n\n\nVer código\nn_ney = n_requerido[\"Estratificado Neyman\"]\nplan[\"n_h\"] = np.minimum(\n    np.ceil(n_ney * plan.N_h * plan.S_h / (plan.N_h * plan.S_h).sum()), plan.N_h\n).astype(int)\nplan[\"contactar\"] = np.minimum(np.ceil(plan.n_h / tasa_respuesta), plan.N_h).astype(int)\nplan[\"fraccion_muestral_%\"] = (100 * plan.n_h / plan.N_h).round(1)\nplan[\"factor_expansion\"] = (plan.N_h / plan.n_h).round(2)\nplan[[\"N_h\", \"S_h\", \"n_h\", \"contactar\", \"fraccion_muestral_%\", \"factor_expansion\"]].round(2)\n\n\n\n\n\n\n\n\n\nN_h\nS_h\nn_h\ncontactar\nfraccion_muestral_%\nfactor_expansion\n\n\nestrato\n\n\n\n\n\n\n\n\n\n\nPequeños\n2800\n0.95\n102\n146\n3.6\n27.45\n\n\nMedianos\n900\n4.04\n140\n200\n15.6\n6.43\n\n\nGrandes\n300\n21.31\n246\n300\n82.0\n1.22\n\n\n\n\n\n\n\nLa asignación invierte la intuición habitual: los clientes grandes, apenas el 7,5 % de la cartera, reciben la mitad de la muestra, y con una tasa de respuesta del 70 % conviene directamente contactarlos a todos. En la jerga del muestreo se trata de un estrato de inclusión forzosa. Los factores de expansión resultantes permiten llevar los resultados al total de la cartera."
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html#paso-3.-verificación-por-simulación",
+    "href": "portfolio/diseno-muestral.html#paso-3.-verificación-por-simulación",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "Paso 3. Verificación por simulación",
+    "text": "Paso 3. Verificación por simulación\nLas fórmulas se apoyaron en las compras del año anterior y no en el gasto previsto, que es lo que se quiere medir. Para comprobar que el diseño cumple su promesa, se extraen 3.000 muestras con la asignación de Neyman y se mide el error efectivamente obtenido sobre la variable de interés.\n\n\nVer código\ngrupos = {e: g.gasto.to_numpy() for e, g in poblacion.groupby(\"estrato\", sort=False)}\nmedia_real = poblacion.gasto.mean()\n\nestimaciones = np.array([\n    sum(plan.W_h[e] * rng.choice(grupos[e], plan.n_h[e], replace=False).mean() for e in grupos)\n    for _ in range(3000)\n])\ndentro_banda = np.mean(np.abs(estimaciones / media_real - 1) &lt;= error_relativo)\n\nfig, ax = plt.subplots(figsize=(8, 3.8))\nax.hist(estimaciones, bins=50, color=\"#1f6f57\", alpha=0.85)\nax.axvline(media_real, color=\"#1c2733\", linewidth=1.5)\nfor k in (0.95, 1.05):\n    ax.axvline(media_real * k, color=\"#b4532a\", linestyle=\"--\", linewidth=1.2)\nax.set_xlabel(\"Gasto medio estimado (millones de pesos)\")\nax.set_ylabel(\"Cantidad de muestras\")\nax.spines[[\"top\", \"right\"]].set_visible(False)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigura 2: Distribución del gasto medio estimado en 3.000 muestras con asignación de Neyman. La línea continua marca el valor verdadero y las punteadas, la banda de ±5 %.\n\n\n\n\n\nEl 96,7 % de las muestras simuladas queda dentro de la banda de ±5 % alrededor del valor verdadero, algo por encima del 95 % buscado: las compras pasadas son un poco más dispersas que el gasto previsto, de modo que el cálculo resultó levemente conservador. Si el gasto previsto resultara menos parecido a las compras pasadas de lo supuesto, la precisión se degradaría, y por eso la memoria metodológica deja asentado ese supuesto junto con un margen de seguridad recomendado."
+  },
+  {
+    "objectID": "portfolio/diseno-muestral.html#qué-recibe-el-cliente",
+    "href": "portfolio/diseno-muestral.html#qué-recibe-el-cliente",
+    "title": "Cuántos clientes encuestar y a quiénes",
+    "section": "Qué recibe el cliente",
+    "text": "Qué recibe el cliente\n\nEl tamaño de muestra justificado y el número de clientes a contactar, con el margen de error que puede garantizarse.\nLa asignación por estrato y el listado de clientes seleccionados, con un plan de reemplazos para la no respuesta.\nLos factores de expansión para estimar totales y promedios, y una memoria metodológica que documenta cada decisión.\n\nLa lección práctica es sencilla: cuando la población es heterogénea, decidir a quién encuestar determina cuántas encuestas hacen falta."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Darío Díaz · Científico de Datos y Estadístico",
+    "section": "",
+    "text": "Científico de datos · Estadístico · Economista\n  \n  Acompaño a empresas, cámaras, cooperativas, consultoras y organizaciones privadas en todo el ciclo de la información: desde el diseño de la muestra y del cuestionario hasta el análisis, el modelo predictivo y la formación de sus equipos.\n  \n    Conversemos sobre su proyecto\n    Ver casos de trabajo"
+  },
+  {
+    "objectID": "index.html#qué-hago",
+    "href": "index.html#qué-hago",
+    "title": "Darío Díaz · Científico de Datos y Estadístico",
+    "section": "Qué hago",
+    "text": "Qué hago\n\n\n01\n\nDiseño de muestras\nEncuestas de mercado, de satisfacción, de clima laboral o de opinión con un diseño probabilístico defendible: tamaño, estratificación, selección, ponderadores y márgenes de error conocidos de antemano.\n\n\n\n02\n\nCuestionarios y formularios\nConstrucción y revisión de instrumentos de relevamiento: redacción de preguntas, escalas, flujos de salto, validaciones y prueba piloto, en papel o en plataformas digitales.\n\n\n\n03\n\nAnálisis de encuestas\nProcesamiento, depuración, ponderación y estimación con errores estándar correctos, tablas cruzadas con significación, índices y modelos explicativos sobre datos de encuesta.\n\n\n\n04\n\nCiencia de datos\nModelos predictivos, segmentación de clientes, pronósticos de demanda, tableros de seguimiento y automatización de reportes en R y Python, con código entregado y documentado.\n\n\n\n05\n\nAnálisis económico\nEstudios de mercado y sectoriales, evaluación de proyectos, costos, precios y diagnóstico de competitividad con herramientas econométricas.\n\n\n\n06\n\nCursos y capacitaciones\nFormación a medida para equipos: estadística aplicada, muestreo, R y Python, ciencia de datos e inteligencia artificial, con ejemplos construidos sobre los problemas reales de cada organización.\n\n\n\nVer el detalle de cada servicio →"
+  },
+  {
+    "objectID": "index.html#respaldo-académico-y-docente",
+    "href": "index.html#respaldo-académico-y-docente",
+    "title": "Darío Díaz · Científico de Datos y Estadístico",
+    "section": "Respaldo académico y docente",
+    "text": "Respaldo académico y docente\n\n\n7 títulos universitarios de grado y posgrado\n\n\n18+ años de docencia universitaria en grado y posgrado\n\n\n30+ artículos, capítulos y trabajos publicados\n\n\n3 posgrados en curso, entre ellos el Doctorado en Estadística\n\n\nSoy Doctor en Ciencias Económicas por la Universidad Nacional de Córdoba, Magíster en Econometría (Universidad Torcuato Di Tella), en Métodos Cuantitativos (Universidad de Buenos Aires), en Explotación de Datos y Gestión del Conocimiento (Universidad Austral) y en Políticas Públicas y Desarrollo (FLACSO), y curso el Doctorado en Estadística de la Universidad Nacional de Rosario. Enseño probabilidad, estadística, econometría, ciencia de datos y metodología de la investigación en universidades de la región.\nConocer mi trayectoria →"
+  },
+  {
+    "objectID": "index.html#cómo-trabajo",
+    "href": "index.html#cómo-trabajo",
+    "title": "Darío Díaz · Científico de Datos y Estadístico",
+    "section": "Cómo trabajo",
+    "text": "Cómo trabajo\n\n\nDiagnóstico sin costo. Una primera conversación para entender la pregunta de negocio y decidir si los datos pueden responderla.\nPropuesta escrita. Alcance, método, plazos, entregables y honorarios definidos antes de comenzar.\nTrabajo reproducible. Cada análisis queda documentado en código, de modo que la organización pueda auditarlo, repetirlo y actualizarlo.\nEntrega comprensible. Informes y tableros pensados para quien decide, con la técnica disponible para quien quiera revisarla.\n\n\n\nTrabajo exclusivamente con datos propios del cliente o con fuentes públicas oficialmente difundidas, bajo acuerdo de confidencialidad. Leer la declaración de independencia y confidencialidad."
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "La primera conversación no tiene costo. Para preparar una propuesta útil me ayuda saber, en pocas líneas, qué decisión necesita tomar su organización, con qué datos cuenta hoy y en qué plazo necesita resultados.\nCorreo: drdarioezequieldiaz@gmail.com Ubicación: Posadas, Misiones, Argentina. Trabajo presencial en la región y remoto en todo el país."
+  },
+  {
+    "objectID": "contacto.html#datos-fiscales",
+    "href": "contacto.html#datos-fiscales",
+    "title": "Contacto",
+    "section": "Datos fiscales",
+    "text": "Datos fiscales\nDarío Ezequiel Díaz · Monotributista · CUIT 20-30398441-1 · Emite factura C.\n\nAntes de enviar información sensible, le propongo firmar un acuerdo de confidencialidad. Los alcances de mi actividad están detallados en la declaración de independencia y confidencialidad."
+  },
+  {
+    "objectID": "capacitaciones.html",
+    "href": "capacitaciones.html",
+    "title": "Cursos y capacitaciones",
+    "section": "",
+    "text": "Llevo más de dieciocho años enseñando probabilidad, estadística, econometría, ciencia de datos y metodología en carreras de grado y de posgrado, y he dictado cursos de extensión para la Sociedad Argentina de Estadística y seminarios de posgrado. Esa experiencia se traduce en capacitaciones que parten de los problemas concretos de cada organización y terminan con el equipo capaz de resolverlos por su cuenta."
+  },
+  {
+    "objectID": "capacitaciones.html#modalidades",
+    "href": "capacitaciones.html#modalidades",
+    "title": "Cursos y capacitaciones",
+    "section": "Modalidades",
+    "text": "Modalidades\n\nIn company: contenidos adaptados a los datos y procesos del cliente.\nAbiertos: cohortes con inscripción individual, en formato virtual.\nPresencial o virtual sincrónico, con materiales, ejercicios y grabaciones según el caso.\nDuración flexible, desde talleres de 8 horas hasta trayectos de 40 horas o más.\nCertificado de asistencia o aprobación, según se acuerde."
+  },
+  {
+    "objectID": "capacitaciones.html#catálogo",
+    "href": "capacitaciones.html#catálogo",
+    "title": "Cursos y capacitaciones",
+    "section": "Catálogo",
+    "text": "Catálogo\n\n\nInicial · 12 h\n\nEstadística para decidir\nPara quienes no son especialistas: leer datos, interpretar promedios, porcentajes, márgenes de error y gráficos sin caer en trampas frecuentes.\n\n\n\nIntermedio · 16 h\n\nMuestreo y diseño de encuestas\nTamaño de muestra, estratificación, conglomerados, ponderación y no respuesta, con ejercicios sobre relevamientos reales.\n\n\n\nInicial · 8 h\n\nDiseño de cuestionarios\nCómo formular preguntas, construir escalas, evitar sesgos de redacción e implementar formularios digitales confiables.\n\n\n\nInicial · 20 h\n\nAnálisis de datos con R o Python\nDesde cero hasta el informe reproducible: importación, limpieza, visualización y tabulados.\n\n\n\nIntermedio · 24 h\n\nCiencia de datos aplicada\nRegresión, clasificación, árboles y ensambles, validación cruzada y comunicación de resultados para el negocio.\n\n\n\nInicial · 8 h\n\nIA generativa para el trabajo con datos\nUso responsable de asistentes de IA para programar, analizar y redactar, con criterios de verificación y de protección de datos.\n\n\n\nAvanzado · 20 h\n\nEconometría y series de tiempo\nModelos de regresión, datos de panel, pronósticos y evaluación de impacto para analistas y economistas.\n\n\n\nAvanzado · 16 h\n\nAprendizaje por refuerzo\nFundamentos y aplicaciones de agentes que aprenden por interacción, con implementación en Python."
+  },
+  {
+    "objectID": "capacitaciones.html#antecedentes-docentes-recientes",
+    "href": "capacitaciones.html#antecedentes-docentes-recientes",
+    "title": "Cursos y capacitaciones",
+    "section": "Antecedentes docentes recientes",
+    "text": "Antecedentes docentes recientes\n\nCursos de Introducción a Python, Aprendizaje por refuerzo y Medición de la pobreza para la Sociedad Argentina de Estadística (2025).\nSeminario de posgrado Aprendizaje por refuerzo, Universidad Austral (2026).\nMinería de datos y sus aplicaciones para economía y finanzas, Universidad Tecnológica Nacional (2026).\nCátedras de Probabilidad y Estadística, Investigación Operativa y Proyecto Final de Grado (Universidad de la Cuenca del Plata) y de Metodología Cuantitativa y Cualitativa (Universidad Católica de Santa Fe).\n\nConsultar por una capacitación →"
+  },
+  {
+    "objectID": "independencia.html",
+    "href": "independencia.html",
+    "title": "Independencia y confidencialidad",
+    "section": "",
+    "text": "Además de mi actividad como consultor independiente, me desempeño como Director de Metodología y Relevamiento Estadístico del Instituto Provincial de Estadística y Censos de Misiones (IPEC). Mi actividad de consultoría es completamente independiente de esa función pública, se realiza fuera del horario laboral y sin recursos institucionales, y se rige por los compromisos que se detallan a continuación."
+  },
+  {
+    "objectID": "independencia.html#secreto-estadístico",
+    "href": "independencia.html#secreto-estadístico",
+    "title": "Independencia y confidencialidad",
+    "section": "Secreto estadístico",
+    "text": "Secreto estadístico\nRespeto sin excepciones el secreto estadístico establecido por la Ley N.º 17.622. En consecuencia:\n\nNo utilizo, comparto ni comento microdatos, bases internas ni información individual de personas, hogares o empresas a la que acceda por razón de mi función pública.\nNo anticipo, insinúo ni estimo resultados de estadísticas oficiales antes de su publicación, ni ofrezco interpretaciones basadas en información no difundida.\nLas estadísticas oficiales que empleo en mis trabajos son siempre las publicadas y disponibles para cualquier usuario, citadas con su fuente."
+  },
+  {
+    "objectID": "independencia.html#alcance-de-los-servicios",
+    "href": "independencia.html#alcance-de-los-servicios",
+    "title": "Independencia y confidencialidad",
+    "section": "Alcance de los servicios",
+    "text": "Alcance de los servicios\n\nTrabajo exclusivamente para empresas, organizaciones y personas del ámbito privado.\nNo presto servicios a organismos del Estado de la Provincia de Misiones.\nNo asesoro sobre asuntos en los que intervenga o deba intervenir por razón de mi cargo, ni a informantes de relevamientos oficiales en temas vinculados con esos relevamientos.\nMi actividad no representa ni compromete la opinión del IPEC ni de ningún otro organismo público."
+  },
+  {
+    "objectID": "independencia.html#confidencialidad-de-la-información-del-cliente",
+    "href": "independencia.html#confidencialidad-de-la-información-del-cliente",
+    "title": "Independencia y confidencialidad",
+    "section": "Confidencialidad de la información del cliente",
+    "text": "Confidencialidad de la información del cliente\n\nLos datos que cada cliente me confía se usan únicamente para el trabajo encargado y no se comparten con terceros.\nFirmo acuerdos de confidencialidad cuando el cliente lo requiere.\nAl finalizar el trabajo, los datos se devuelven o se eliminan según lo acordado, y la información personal se trata conforme a la Ley N.º 25.326 de Protección de los Datos Personales.\nLos casos que publico en este sitio utilizan datos públicos o simulados, nunca información de clientes.\n\nAnte cualquier duda sobre estos alcances, puede escribirme antes de iniciar una consulta."
+  },
+  {
+    "objectID": "portfolio/cuestionario.html",
+    "href": "portfolio/cuestionario.html",
+    "title": "Siete errores frecuentes al redactar un cuestionario",
+    "section": "",
+    "text": "Una cooperativa de servicios preparó, con buena voluntad y sin asesoramiento, un formulario en línea para medir la satisfacción de sus asociados. Antes de enviarlo a varios miles de personas, pidió una revisión. Las preguntas que siguen son representativas de lo encontrado; cada una se acompaña de su corrección y del motivo del cambio.\nUna pregunta mal formulada no se arregla después con estadística. El sesgo que introduce queda en los datos, y ningún modelo, por sofisticado que sea, puede distinguirlo de la opinión genuina de quien responde."
+  },
+  {
+    "objectID": "portfolio/cuestionario.html#el-encargo",
+    "href": "portfolio/cuestionario.html#el-encargo",
+    "title": "Siete errores frecuentes al redactar un cuestionario",
+    "section": "",
+    "text": "Una cooperativa de servicios preparó, con buena voluntad y sin asesoramiento, un formulario en línea para medir la satisfacción de sus asociados. Antes de enviarlo a varios miles de personas, pidió una revisión. Las preguntas que siguen son representativas de lo encontrado; cada una se acompaña de su corrección y del motivo del cambio.\nUna pregunta mal formulada no se arregla después con estadística. El sesgo que introduce queda en los datos, y ningún modelo, por sofisticado que sea, puede distinguirlo de la opinión genuina de quien responde."
+  },
+  {
+    "objectID": "portfolio/cuestionario.html#los-errores-y-sus-correcciones",
+    "href": "portfolio/cuestionario.html#los-errores-y-sus-correcciones",
+    "title": "Siete errores frecuentes al redactar un cuestionario",
+    "section": "Los errores y sus correcciones",
+    "text": "Los errores y sus correcciones\n\n\n\n\n\n\n\n\nPregunta original\nProblema\nVersión revisada\n\n\n\n\n¿Está satisfecho con la atención y los precios de la cooperativa?\nPregunta doble. Quien está conforme con la atención y disconforme con los precios no tiene cómo responder.\nDos preguntas separadas, una para la atención y otra para los precios.\n\n\n¿No cree usted que el nuevo horario mejoró el servicio?\nPregunta inductiva. La forma negativa y la presuposición empujan hacia el acuerdo.\n¿Cómo evalúa el nuevo horario de atención en comparación con el anterior? Mejor / Igual / Peor / No lo conozco\n\n\n¿Con qué frecuencia usa la aplicación? Mucho / Bastante / Poco\nCategorías vagas. “Mucho” significa cosas distintas para cada persona y falta la opción de no uso.\nEn el último mes, ¿cuántas veces usó la aplicación? Ninguna / 1 o 2 / 3 a 5 / 6 o más\n\n\nEdad: 18-30 / 30-45 / 45-60 / 60 o más\nCategorías superpuestas. Quien tiene 30 o 45 años puede marcar dos opciones.\n18 a 29 / 30 a 44 / 45 a 59 / 60 o más, o directamente la edad en años.\n\n\nDel 1 al 10, ¿qué tan satisfecho está? (sin rótulos)\nEscala sin anclas. No se sabe si el 1 es el mejor o el peor valor ni qué significa el punto medio.\nEscala de 0 a 10 con extremos rotulados: 0 = nada satisfecho, 10 = totalmente satisfecho.\n\n\n¿Qué opina de la gestión del consejo y de la gerencia? (pregunta 3 de 40)\nUbicación y carga. Una pregunta sensible al comienzo condiciona el resto y un formulario largo eleva el abandono.\nPreguntas generales primero, temas sensibles hacia el final y el formulario reducido a lo que se va a analizar.\n\n\nTodas las preguntas obligatorias\nRespuestas forzadas. Obligar a responder lo que no se sabe produce datos inventados o abandono.\nOpción “No sabe / No corresponde” donde tenga sentido y obligatoriedad solo en las preguntas filtro."
+  },
+  {
+    "objectID": "portfolio/cuestionario.html#más-allá-de-la-redacción",
+    "href": "portfolio/cuestionario.html#más-allá-de-la-redacción",
+    "title": "Siete errores frecuentes al redactar un cuestionario",
+    "section": "Más allá de la redacción",
+    "text": "Más allá de la redacción\nLa revisión del formulario incluyó además tres decisiones que suelen pasarse por alto:\n\nPlan de análisis antes que cuestionario. Cada pregunta debe responder a un indicador que alguien va a usar. Las que no tenían destino se eliminaron, y el formulario pasó de 40 a 22 preguntas.\nPrueba piloto. Veinte asociados respondieron la versión revisada y se midió el tiempo de respuesta, los abandonos y las preguntas que generaron dudas, con un nuevo ajuste posterior.\nLibro de códigos. Cada variable quedó documentada con su nombre, su pregunta, sus categorías y sus valores especiales, lo que permite analizar la base sin ambigüedades y comparar futuras mediciones."
+  },
+  {
+    "objectID": "portfolio/cuestionario.html#qué-recibe-el-cliente",
+    "href": "portfolio/cuestionario.html#qué-recibe-el-cliente",
+    "title": "Siete errores frecuentes al redactar un cuestionario",
+    "section": "Qué recibe el cliente",
+    "text": "Qué recibe el cliente\n\nEl cuestionario revisado con un comentario por cada cambio, útil también como material de formación para el equipo.\nEl formulario digital configurado con filtros, saltos y validaciones.\nEl libro de códigos y el plan de tabulados, listos antes del trabajo de campo."
+  },
+  {
+    "objectID": "portfolio/encuesta-ponderada.html",
+    "href": "portfolio/encuesta-ponderada.html",
+    "title": "Cuando el promedio simple engaña",
+    "section": "",
+    "text": "Una empresa de servicios con 60 sucursales, 45 en el interior y 15 en la capital, encarga una encuesta de clima laboral. Por razones de costo no se visitan todas las sucursales: se eligen al azar 8 del interior y 6 de la capital, y en cada una se encuesta a todo el personal. La capital queda así sobrerrepresentada, y además los empleados de una misma sucursal tienden a responder de manera parecida.\nCon frecuencia, la base resultante se analiza como si fuera una muestra aleatoria simple: un porcentaje sin ponderar y un margen de error de manual. Este caso muestra cuánto puede equivocarse ese atajo, tanto en el valor estimado como en la incertidumbre que se le atribuye.\n\n\nVer código\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nrng = np.random.default_rng(1984)\n\n# Población simulada: 60 sucursales en dos regiones\nsucursales = pd.DataFrame({\n    \"sucursal\": range(1, 61),\n    \"region\": [\"Interior\"] * 45 + [\"Capital\"] * 15,\n})\nsucursales[\"empleados\"] = rng.integers(12, 40, 60)\n# Clima de cada sucursal: el interior está, en promedio, menos satisfecho\nbase = np.where(sucursales.region == \"Interior\", -0.35, 0.55)\nsucursales[\"efecto_sucursal\"] = base + rng.normal(0, 0.75, 60)\n\npersonas = sucursales.loc[sucursales.index.repeat(sucursales.empleados)].reset_index(drop=True)\nprob = 1 / (1 + np.exp(-(personas.efecto_sucursal + rng.normal(0, 0.8, len(personas)))))\npersonas[\"satisfecho\"] = rng.binomial(1, prob)\n\nverdad = personas.satisfecho.mean()\n\n# Diseño: selección aleatoria de sucursales dentro de cada región, censo dentro de la sucursal\nmuestra_suc = {\"Interior\": 8, \"Capital\": 6}\nN_suc = sucursales.region.value_counts().to_dict()\nelegidas = pd.concat([\n    sucursales[sucursales.region == r].sample(n, random_state=11) for r, n in muestra_suc.items()\n])\nmuestra = personas[personas.sucursal.isin(elegidas.sucursal)].copy()\nmuestra[\"peso\"] = muestra.region.map(lambda r: N_suc[r] / muestra_suc[r])\n\nmuestra.groupby(\"region\").agg(sucursales=(\"sucursal\", \"nunique\"),\n                              personas=(\"satisfecho\", \"size\"),\n                              peso=(\"peso\", \"first\"),\n                              satisfechos=(\"satisfecho\", \"mean\")).round(3)\n\n\n\n\n\n\n\n\n\nsucursales\npersonas\npeso\nsatisfechos\n\n\nregion\n\n\n\n\n\n\n\n\nCapital\n6\n147\n2.500\n0.66\n\n\nInterior\n8\n182\n5.625\n0.39\n\n\n\n\n\n\n\nCada persona encuestada del interior representa a 5,62 personas, mientras que cada una de la capital representa a 2,5. Ignorar esa diferencia equivale a darle a la capital más voz de la que tiene en la empresa."
+  },
+  {
+    "objectID": "portfolio/encuesta-ponderada.html#el-problema",
+    "href": "portfolio/encuesta-ponderada.html#el-problema",
+    "title": "Cuando el promedio simple engaña",
+    "section": "",
+    "text": "Una empresa de servicios con 60 sucursales, 45 en el interior y 15 en la capital, encarga una encuesta de clima laboral. Por razones de costo no se visitan todas las sucursales: se eligen al azar 8 del interior y 6 de la capital, y en cada una se encuesta a todo el personal. La capital queda así sobrerrepresentada, y además los empleados de una misma sucursal tienden a responder de manera parecida.\nCon frecuencia, la base resultante se analiza como si fuera una muestra aleatoria simple: un porcentaje sin ponderar y un margen de error de manual. Este caso muestra cuánto puede equivocarse ese atajo, tanto en el valor estimado como en la incertidumbre que se le atribuye.\n\n\nVer código\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nrng = np.random.default_rng(1984)\n\n# Población simulada: 60 sucursales en dos regiones\nsucursales = pd.DataFrame({\n    \"sucursal\": range(1, 61),\n    \"region\": [\"Interior\"] * 45 + [\"Capital\"] * 15,\n})\nsucursales[\"empleados\"] = rng.integers(12, 40, 60)\n# Clima de cada sucursal: el interior está, en promedio, menos satisfecho\nbase = np.where(sucursales.region == \"Interior\", -0.35, 0.55)\nsucursales[\"efecto_sucursal\"] = base + rng.normal(0, 0.75, 60)\n\npersonas = sucursales.loc[sucursales.index.repeat(sucursales.empleados)].reset_index(drop=True)\nprob = 1 / (1 + np.exp(-(personas.efecto_sucursal + rng.normal(0, 0.8, len(personas)))))\npersonas[\"satisfecho\"] = rng.binomial(1, prob)\n\nverdad = personas.satisfecho.mean()\n\n# Diseño: selección aleatoria de sucursales dentro de cada región, censo dentro de la sucursal\nmuestra_suc = {\"Interior\": 8, \"Capital\": 6}\nN_suc = sucursales.region.value_counts().to_dict()\nelegidas = pd.concat([\n    sucursales[sucursales.region == r].sample(n, random_state=11) for r, n in muestra_suc.items()\n])\nmuestra = personas[personas.sucursal.isin(elegidas.sucursal)].copy()\nmuestra[\"peso\"] = muestra.region.map(lambda r: N_suc[r] / muestra_suc[r])\n\nmuestra.groupby(\"region\").agg(sucursales=(\"sucursal\", \"nunique\"),\n                              personas=(\"satisfecho\", \"size\"),\n                              peso=(\"peso\", \"first\"),\n                              satisfechos=(\"satisfecho\", \"mean\")).round(3)\n\n\n\n\n\n\n\n\n\nsucursales\npersonas\npeso\nsatisfechos\n\n\nregion\n\n\n\n\n\n\n\n\nCapital\n6\n147\n2.500\n0.66\n\n\nInterior\n8\n182\n5.625\n0.39\n\n\n\n\n\n\n\nCada persona encuestada del interior representa a 5,62 personas, mientras que cada una de la capital representa a 2,5. Ignorar esa diferencia equivale a darle a la capital más voz de la que tiene en la empresa."
+  },
+  {
+    "objectID": "portfolio/encuesta-ponderada.html#estimación-ingenua-y-estimación-según-el-diseño",
+    "href": "portfolio/encuesta-ponderada.html#estimación-ingenua-y-estimación-según-el-diseño",
+    "title": "Cuando el promedio simple engaña",
+    "section": "Estimación ingenua y estimación según el diseño",
+    "text": "Estimación ingenua y estimación según el diseño\nLa proporción ponderada es un estimador de razón, \\(\\hat p = \\sum_i w_i y_i / \\sum_i w_i\\). Su varianza se aproxima por linealización, agregando las variables linealizadas \\(z_i = w_i (y_i - \\hat p)/\\sum_i w_i\\) por sucursal, que constituye la unidad primaria de muestreo, y midiendo su variabilidad dentro de cada región:\n\\[\n\\hat V(\\hat p) = \\sum_h \\left(1 - \\frac{n_h}{N_h}\\right) \\frac{n_h}{n_h - 1} \\sum_{c=1}^{n_h} \\left(z_{hc} - \\bar z_h\\right)^2 .\n\\]\nUn detalle que suele omitirse: con solo 14 sucursales en la muestra, los grados de libertad del diseño no son los 329 casos sino 14 − 2 = 12, de modo que el intervalo se construye con la distribución t de Student y no con el valor 1,96.\n\n\nVer código\nfrom scipy import stats\n\ngl_diseno = sum(muestra_suc.values()) - len(muestra_suc)   # sucursales menos estratos\nt_diseno = stats.t.ppf(0.975, gl_diseno)\n\ndef proporcion_ingenua(df):\n    p = df.satisfecho.mean()\n    return p, np.sqrt(p * (1 - p) / len(df))\n\ndef proporcion_diseno(df):\n    p = np.average(df.satisfecho, weights=df.peso)\n    z = df.peso * (df.satisfecho - p) / df.peso.sum()\n    totales = z.groupby([df.region, df.sucursal]).sum()\n    v = 0.0\n    for region, zc in totales.groupby(level=0):\n        n_h, N_h = len(zc), N_suc[region]\n        v += (1 - n_h / N_h) * n_h / (n_h - 1) * ((zc - zc.mean()) ** 2).sum()\n    return p, np.sqrt(v)\n\np_ing, ee_ing = proporcion_ingenua(muestra)\np_dis, ee_dis = proporcion_diseno(muestra)\n\nresultados = pd.DataFrame({\n    \"Método\": [\"Sin ponderar, como aleatorio simple\", \"Ponderado, según el diseño\"],\n    \"Estimación\": [p_ing, p_dis],\n    \"Error estándar\": [ee_ing, ee_dis],\n})\ncritico = [1.96, t_diseno]\nresultados[\"IC 95 % inferior\"] = resultados[\"Estimación\"] - critico * resultados[\"Error estándar\"]\nresultados[\"IC 95 % superior\"] = resultados[\"Estimación\"] + critico * resultados[\"Error estándar\"]\nefecto_diseno = (ee_dis / ee_ing) ** 2\nn_efectivo = len(muestra) / efecto_diseno\nresultados.set_index(\"Método\").round(3)\n\n\n\n\n\n\n\n\n\nEstimación\nError estándar\nIC 95 % inferior\nIC 95 % superior\n\n\nMétodo\n\n\n\n\n\n\n\n\nSin ponderar, como aleatorio simple\n0.511\n0.028\n0.457\n0.565\n\n\nPonderado, según el diseño\n0.461\n0.034\n0.387\n0.535\n\n\n\n\n\n\n\nDos diferencias saltan a la vista. La primera está en la estimación misma: el promedio simple sobrestima la satisfacción en unos 5 puntos porcentuales, porque da a la capital, más satisfecha, un peso que no tiene en la empresa. La segunda está en la incertidumbre: el efecto de diseño de esta muestra es de 1,5, lo que significa que las 329 entrevistas aportan tanta información como unas 216 entrevistas obtenidas por muestreo aleatorio simple. Los empleados de una misma sucursal se parecen entre sí, y cada respuesta adicional dentro de la sucursal agrega menos información nueva."
+  },
+  {
+    "objectID": "portfolio/encuesta-ponderada.html#qué-método-acierta",
+    "href": "portfolio/encuesta-ponderada.html#qué-método-acierta",
+    "title": "Cuando el promedio simple engaña",
+    "section": "¿Qué método acierta?",
+    "text": "¿Qué método acierta?\nUna sola muestra no alcanza para juzgar un método. Por eso se repite el procedimiento completo en 2.000 muestras y se cuenta con qué frecuencia cada intervalo de confianza del 95 % contiene la verdadera proporción de empleados satisfechos.\n\n\nVer código\ncobertura = {\"Sin ponderar\": 0, \"Según el diseño\": 0}\nefectos = []\nR = 2000\nfor r in range(R):\n    sel = pd.concat([\n        sucursales[sucursales.region == reg].sample(n, random_state=r * 7 + i)\n        for i, (reg, n) in enumerate(muestra_suc.items())\n    ])\n    m = personas[personas.sucursal.isin(sel.sucursal)].copy()\n    m[\"peso\"] = m.region.map(lambda reg: N_suc[reg] / muestra_suc[reg])\n    p1, ee1 = proporcion_ingenua(m)\n    p2, ee2 = proporcion_diseno(m)\n    cobertura[\"Sin ponderar\"] += abs(p1 - verdad) &lt;= 1.96 * ee1\n    cobertura[\"Según el diseño\"] += abs(p2 - verdad) &lt;= t_diseno * ee2\n    efectos.append((ee2 / ee1) ** 2)\n\ncob = pd.Series(cobertura) / R\nfig, ax = plt.subplots(figsize=(7, 3.2))\nbarras = ax.barh(cob.index, cob.values, color=[\"#9aa5b1\", \"#1f6f57\"], height=0.5)\nax.axvline(0.95, color=\"#b4532a\", linestyle=\"--\", linewidth=1.5)\nax.text(0.95, 1.42, \" 95 % prometido\", color=\"#b4532a\", va=\"center\")\nax.bar_label(barras, labels=[f\"{v:.0%}\" for v in cob.values], padding=4)\nax.set_xlim(0, 1.08)\nax.set_xlabel(\"Proporción de intervalos que contienen el valor verdadero\")\nax.spines[[\"top\", \"right\"]].set_visible(False)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigura 1: Cobertura real de los intervalos de confianza nominales del 95 % en 2.000 repeticiones del diseño.\n\n\n\n\n\nEl intervalo ingenuo promete un 95 % de confianza y acierta solo en el 62 % de las muestras: combina un sesgo, porque sobrerrepresenta a la capital, con un error estándar demasiado optimista. A lo largo de las repeticiones, el efecto de diseño promedio ronda 2,3. El intervalo que respeta el diseño alcanza una cobertura del 94 %, muy próxima a la nominal; la pequeña diferencia restante proviene de trabajar con apenas 14 sucursales, y por eso en estos casos conviene informar también cuántas unidades primarias sostienen cada estimación."
+  },
+  {
+    "objectID": "portfolio/encuesta-ponderada.html#qué-recibe-el-cliente",
+    "href": "portfolio/encuesta-ponderada.html#qué-recibe-el-cliente",
+    "title": "Cuando el promedio simple engaña",
+    "section": "Qué recibe el cliente",
+    "text": "Qué recibe el cliente\n\nEstimaciones ponderadas con márgenes de error honestos, también para subgrupos como regiones, áreas o antigüedad.\nUn tabulado que marca qué diferencias son estadísticamente significativas y cuáles no.\nLa advertencia explícita de cuándo un subgrupo tiene muy pocos casos o pocas sucursales para concluir algo.\nEl código, para repetir el análisis en la próxima medición con exactamente los mismos criterios."
+  },
+  {
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Servicios",
+    "section": "",
+    "text": "Cada servicio puede contratarse por separado o como parte de un proyecto integral. En todos los casos la propuesta se define por escrito, con alcance, método, cronograma y honorarios, antes de iniciar el trabajo."
+  },
+  {
+    "objectID": "servicios.html#diseño-de-muestras",
+    "href": "servicios.html#diseño-de-muestras",
+    "title": "Servicios",
+    "section": "Diseño de muestras",
+    "text": "Diseño de muestras\nUna encuesta vale lo que vale su muestra. Diseño relevamientos probabilísticos para estudios de mercado, satisfacción de clientes, clima organizacional, opinión de socios o asociados y relevamientos sectoriales de cámaras empresarias.\n\nDefinición de la población objetivo, el marco muestral y sus coberturas.\nCálculo del tamaño de muestra según la precisión requerida, el efecto de diseño y la tasa de respuesta esperada.\nMuestreo estratificado, por conglomerados y en etapas, con asignación proporcional u óptima.\nConstrucción de ponderadores, ajustes por no respuesta y calibración a totales conocidos.\nMemoria metodológica que documenta cada decisión.\n\nEntregables: diseño muestral documentado, listado de unidades seleccionadas, plan de reemplazos y factores de expansión."
+  },
+  {
+    "objectID": "servicios.html#diseño-de-cuestionarios-y-formularios",
+    "href": "servicios.html#diseño-de-cuestionarios-y-formularios",
+    "title": "Servicios",
+    "section": "Diseño de cuestionarios y formularios",
+    "text": "Diseño de cuestionarios y formularios\nLas preguntas mal formuladas producen datos que ningún modelo puede corregir. Construyo y reviso instrumentos de relevamiento para encuestas presenciales, telefónicas y en línea, así como formularios administrativos que luego se analizarán.\n\nOperacionalización de conceptos en variables e indicadores.\nRedacción de preguntas, categorías de respuesta y escalas (Likert, diferencial semántico, NPS, entre otras).\nFlujos de salto, filtros y controles de consistencia.\nImplementación en plataformas digitales (KoboToolbox, Google Forms, LimeSurvey u otras).\nPrueba piloto y ajuste del instrumento.\n\nEntregables: cuestionario final, manual del encuestador, libro de códigos y formulario digital listo para el campo."
+  },
+  {
+    "objectID": "servicios.html#análisis-de-datos-de-encuestas",
+    "href": "servicios.html#análisis-de-datos-de-encuestas",
+    "title": "Servicios",
+    "section": "Análisis de datos de encuestas",
+    "text": "Análisis de datos de encuestas\nProceso y analizo encuestas propias del cliente o encuestas públicas, respetando el diseño muestral en la estimación.\n\nDepuración, imputación y control de calidad de la base.\nEstimaciones ponderadas con errores estándar e intervalos de confianza correctos.\nTablas cruzadas con pruebas de significación y análisis de subgrupos.\nConstrucción de índices y escalas, con análisis de confiabilidad y análisis factorial.\nModelos de regresión para datos de encuesta, análisis de correspondencias y de clasificación.\n\nEntregables: base depurada y documentada, tabulados, informe de resultados y código reproducible en R o Python."
+  },
+  {
+    "objectID": "servicios.html#ciencia-de-datos-y-aprendizaje-automático",
+    "href": "servicios.html#ciencia-de-datos-y-aprendizaje-automático",
+    "title": "Servicios",
+    "section": "Ciencia de datos y aprendizaje automático",
+    "text": "Ciencia de datos y aprendizaje automático\nTransformo los datos que la organización ya tiene en herramientas para decidir.\n\nModelos predictivos de demanda, ventas, morosidad o abandono de clientes.\nSegmentación de clientes y análisis de canasta de compra.\nPronóstico de series de tiempo.\nTableros interactivos y automatización de reportes periódicos.\nAsesoramiento para incorporar inteligencia artificial generativa en procesos de análisis.\n\nEntregables: modelo validado, código documentado, tablero o reporte automatizado y transferencia al equipo del cliente."
+  },
+  {
+    "objectID": "servicios.html#análisis-económico",
+    "href": "servicios.html#análisis-económico",
+    "title": "Servicios",
+    "section": "Análisis económico",
+    "text": "Análisis económico\nAporto la mirada del economista a decisiones de inversión, precios y estrategia.\n\nEstudios de mercado y de demanda, estimación de elasticidades.\nFormulación y evaluación de proyectos de inversión.\nAnálisis de costos, productividad y eficiencia.\nDiagnósticos sectoriales y de competitividad regional a partir de fuentes públicas.\n\nEntregables: informe técnico con supuestos explícitos, modelo de cálculo editable y presentación ejecutiva."
+  },
+  {
+    "objectID": "servicios.html#cursos-y-capacitaciones",
+    "href": "servicios.html#cursos-y-capacitaciones",
+    "title": "Servicios",
+    "section": "Cursos y capacitaciones",
+    "text": "Cursos y capacitaciones\nDiseño y dicto formación a medida para equipos de empresas, cámaras, colegios profesionales y organizaciones. El detalle de la oferta está en Capacitaciones."
+  },
+  {
+    "objectID": "servicios.html#para-quién-trabajo",
+    "href": "servicios.html#para-quién-trabajo",
+    "title": "Servicios",
+    "section": "Para quién trabajo",
+    "text": "Para quién trabajo\nEmpresas de todos los tamaños, cooperativas, cámaras y asociaciones empresarias, consultoras que necesitan apoyo metodológico, colegios profesionales, fundaciones y organizaciones de la sociedad civil, y equipos de investigación del ámbito privado.\n\nNo presto servicios a organismos del Estado provincial ni sobre asuntos vinculados con estadísticas oficiales. Los alcances y límites de mi actividad están detallados en la declaración de independencia y confidencialidad.\n\nSolicitar una propuesta →"
+  }
+]

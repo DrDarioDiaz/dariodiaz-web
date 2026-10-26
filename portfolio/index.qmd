@@ -1,0 +1,17 @@
+---
+title: "Portfolio"
+subtitle: "Casos de trabajo reproducibles"
+description: "Casos de diseño muestral, análisis de encuestas, diseño de cuestionarios y ciencia de datos."
+listing:
+  contents:
+    - "*.qmd"
+    - "!index.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [title, description, categories, date]
+  categories: true
+  date-format: "MMMM YYYY"
+  grid-columns: 2
+---
+
+Estos casos muestran cómo abordo problemas frecuentes en las organizaciones. Todos utilizan datos simulados o fuentes públicas, nunca información de clientes, y el código completo de cada uno puede desplegarse con el botón **Ver código** y está disponible en mi repositorio de GitHub.

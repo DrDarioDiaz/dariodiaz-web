@@ -1,0 +1,92 @@
+---
+title: "Servicios"
+subtitle: "Estadística, ciencia de datos y economía aplicada para organizaciones privadas"
+description: "Diseño muestral, diseño de cuestionarios, análisis de datos de encuestas, ciencia de datos, análisis económico y capacitación."
+---
+
+Cada servicio puede contratarse por separado o como parte de un proyecto integral. En todos los casos la propuesta se define por escrito, con alcance, método, cronograma y honorarios, antes de iniciar el trabajo.
+
+::: {.servicio}
+## Diseño de muestras
+
+Una encuesta vale lo que vale su muestra. Diseño relevamientos probabilísticos para estudios de mercado, satisfacción de clientes, clima organizacional, opinión de socios o asociados y relevamientos sectoriales de cámaras empresarias.
+
+- Definición de la población objetivo, el marco muestral y sus coberturas.
+- Cálculo del tamaño de muestra según la precisión requerida, el efecto de diseño y la tasa de respuesta esperada.
+- Muestreo estratificado, por conglomerados y en etapas, con asignación proporcional u óptima.
+- Construcción de ponderadores, ajustes por no respuesta y calibración a totales conocidos.
+- Memoria metodológica que documenta cada decisión.
+
+[**Entregables:** diseño muestral documentado, listado de unidades seleccionadas, plan de reemplazos y factores de expansión.]{.entregables}
+:::
+
+::: {.servicio}
+## Diseño de cuestionarios y formularios
+
+Las preguntas mal formuladas producen datos que ningún modelo puede corregir. Construyo y reviso instrumentos de relevamiento para encuestas presenciales, telefónicas y en línea, así como formularios administrativos que luego se analizarán.
+
+- Operacionalización de conceptos en variables e indicadores.
+- Redacción de preguntas, categorías de respuesta y escalas (Likert, diferencial semántico, NPS, entre otras).
+- Flujos de salto, filtros y controles de consistencia.
+- Implementación en plataformas digitales (KoboToolbox, Google Forms, LimeSurvey u otras).
+- Prueba piloto y ajuste del instrumento.
+
+[**Entregables:** cuestionario final, manual del encuestador, libro de códigos y formulario digital listo para el campo.]{.entregables}
+:::
+
+::: {.servicio}
+## Análisis de datos de encuestas
+
+Proceso y analizo encuestas propias del cliente o encuestas públicas, respetando el diseño muestral en la estimación.
+
+- Depuración, imputación y control de calidad de la base.
+- Estimaciones ponderadas con errores estándar e intervalos de confianza correctos.
+- Tablas cruzadas con pruebas de significación y análisis de subgrupos.
+- Construcción de índices y escalas, con análisis de confiabilidad y análisis factorial.
+- Modelos de regresión para datos de encuesta, análisis de correspondencias y de clasificación.
+
+[**Entregables:** base depurada y documentada, tabulados, informe de resultados y código reproducible en R o Python.]{.entregables}
+:::
+
+::: {.servicio}
+## Ciencia de datos y aprendizaje automático
+
+Transformo los datos que la organización ya tiene en herramientas para decidir.
+
+- Modelos predictivos de demanda, ventas, morosidad o abandono de clientes.
+- Segmentación de clientes y análisis de canasta de compra.
+- Pronóstico de series de tiempo.
+- Tableros interactivos y automatización de reportes periódicos.
+- Asesoramiento para incorporar inteligencia artificial generativa en procesos de análisis.
+
+[**Entregables:** modelo validado, código documentado, tablero o reporte automatizado y transferencia al equipo del cliente.]{.entregables}
+:::
+
+::: {.servicio}
+## Análisis económico
+
+Aporto la mirada del economista a decisiones de inversión, precios y estrategia.
+
+- Estudios de mercado y de demanda, estimación de elasticidades.
+- Formulación y evaluación de proyectos de inversión.
+- Análisis de costos, productividad y eficiencia.
+- Diagnósticos sectoriales y de competitividad regional a partir de fuentes públicas.
+
+[**Entregables:** informe técnico con supuestos explícitos, modelo de cálculo editable y presentación ejecutiva.]{.entregables}
+:::
+
+::: {.servicio}
+## Cursos y capacitaciones
+
+Diseño y dicto formación a medida para equipos de empresas, cámaras, colegios profesionales y organizaciones. El detalle de la oferta está en [Capacitaciones](capacitaciones.qmd).
+:::
+
+## Para quién trabajo
+
+Empresas de todos los tamaños, cooperativas, cámaras y asociaciones empresarias, consultoras que necesitan apoyo metodológico, colegios profesionales, fundaciones y organizaciones de la sociedad civil, y equipos de investigación del ámbito privado.
+
+::: {.nota-independencia}
+No presto servicios a organismos del Estado provincial ni sobre asuntos vinculados con estadísticas oficiales. Los alcances y límites de mi actividad están detallados en la [declaración de independencia y confidencialidad](independencia.qmd).
+:::
+
+[Solicitar una propuesta →](contacto.qmd){.btn-principal}

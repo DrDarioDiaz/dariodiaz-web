@@ -1,0 +1,73 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "portfolio/*.qmd"
+  resources:
+    - CNAME
+    - img/
+
+lang: es
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+
+website:
+  title: "Darío Díaz"
+  description: "Científico de datos, estadístico y economista. Diseño de muestras y cuestionarios, análisis de encuestas, ciencia de datos y capacitación para empresas y organizaciones privadas."
+  site-url: "https://dariodiaz.com.ar"
+  favicon: img/favicon.svg
+  image: img/og.jpg
+  open-graph:
+    locale: es_AR
+  twitter-card:
+    card-style: summary_large_image
+  page-navigation: false
+  back-to-top-navigation: true
+  navbar:
+    title: "Darío Díaz"
+    logo: img/logo.svg
+    left:
+      - text: "Servicios"
+        href: servicios.qmd
+      - text: "Capacitaciones"
+        href: capacitaciones.qmd
+      - text: "Portfolio"
+        href: portfolio/index.qmd
+      - text: "Sobre mí"
+        href: sobre-mi.qmd
+    right:
+      - text: "Contacto"
+        href: contacto.qmd
+        aria-label: "Contacto"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/dr-dario-ezequiel-diaz/"
+        aria-label: "LinkedIn"
+      - icon: github
+        href: "https://github.com/DrDarioDiaz"
+        aria-label: "GitHub"
+  page-footer:
+    left: |
+      © 2026 Darío Ezequiel Díaz · Científico de Datos y Estadístico · Posadas, Misiones
+    right: |
+      [Independencia y confidencialidad](/independencia.qmd) · Monotributista · CUIT 20-30398441-1
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+    toc: false
+    smooth-scroll: true
+    code-fold: true
+    code-summary: "Ver código"
+    code-tools: false
+    highlight-style: github
+    fig-dpi: 160
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">

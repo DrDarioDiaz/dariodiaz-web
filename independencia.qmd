@@ -1,0 +1,35 @@
+---
+title: "Independencia y confidencialidad"
+subtitle: "Alcances y límites de mi actividad profesional independiente"
+description: "Declaración de independencia, secreto estadístico y confidencialidad de la información de los clientes."
+---
+
+Además de mi actividad como consultor independiente, me desempeño como Director de Metodología y Relevamiento Estadístico del Instituto Provincial de Estadística y Censos de Misiones (IPEC). Mi actividad de consultoría es completamente independiente de esa función pública, se realiza fuera del horario laboral y sin recursos institucionales, y se rige por los compromisos que se detallan a continuación.
+
+<!-- Opcional, solo si la Dirección Ejecutiva lo autoriza expresamente por escrito:
+Esta actividad se desarrolla con conocimiento y conformidad de la Dirección Ejecutiva del IPEC.
+-->
+
+## Secreto estadístico
+
+Respeto sin excepciones el secreto estadístico establecido por la Ley N.º 17.622. En consecuencia:
+
+- No utilizo, comparto ni comento microdatos, bases internas ni información individual de personas, hogares o empresas a la que acceda por razón de mi función pública.
+- No anticipo, insinúo ni estimo resultados de estadísticas oficiales antes de su publicación, ni ofrezco interpretaciones basadas en información no difundida.
+- Las estadísticas oficiales que empleo en mis trabajos son siempre las publicadas y disponibles para cualquier usuario, citadas con su fuente.
+
+## Alcance de los servicios
+
+- Trabajo exclusivamente para empresas, organizaciones y personas del ámbito privado.
+- No presto servicios a organismos del Estado de la Provincia de Misiones.
+- No asesoro sobre asuntos en los que intervenga o deba intervenir por razón de mi cargo, ni a informantes de relevamientos oficiales en temas vinculados con esos relevamientos.
+- Mi actividad no representa ni compromete la opinión del IPEC ni de ningún otro organismo público.
+
+## Confidencialidad de la información del cliente
+
+- Los datos que cada cliente me confía se usan únicamente para el trabajo encargado y no se comparten con terceros.
+- Firmo acuerdos de confidencialidad cuando el cliente lo requiere.
+- Al finalizar el trabajo, los datos se devuelven o se eliminan según lo acordado, y la información personal se trata conforme a la Ley N.º 25.326 de Protección de los Datos Personales.
+- Los casos que publico en este sitio utilizan datos públicos o simulados, nunca información de clientes.
+
+Ante cualquier duda sobre estos alcances, puede [escribirme](contacto.qmd) antes de iniciar una consulta.

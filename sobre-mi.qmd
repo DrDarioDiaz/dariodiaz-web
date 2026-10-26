@@ -1,0 +1,60 @@
+---
+title: "Sobre mí"
+subtitle: "Darío Ezequiel Díaz · Científico de datos, estadístico y economista"
+description: "Formación, docencia, investigación y publicaciones de Darío Ezequiel Díaz."
+---
+
+```{=html}
+<img class="foto-perfil" src="img/foto.jpg" alt="Darío Ezequiel Díaz" width="190" height="190">
+```
+
+Soy economista de formación y estadístico por vocación. Trabajo en la intersección entre la estadística, la econometría y la ciencia de datos, con un interés particular por la calidad de la medición: cómo se diseña una muestra, cómo se formula una pregunta y cómo se estima correctamente a partir de datos imperfectos. Vivo en Posadas, Misiones, y trabajo con organizaciones de todo el país en modalidad presencial o remota.
+
+Mi recorrido combina la docencia universitaria, la investigación aplicada y la dirección técnica de proyectos. Esa combinación define mi manera de trabajar como consultor: rigor metodológico, código reproducible y resultados explicados con claridad a quien debe tomar decisiones.
+
+## Formación
+
+**Títulos obtenidos**
+
+- Doctor en Ciencias Económicas, mención Economía, Universidad Nacional de Córdoba (2014). Calificación sobresaliente.
+- Magíster en Econometría, Universidad Torcuato Di Tella (2026).
+- Magíster en Métodos Cuantitativos para la Gestión y Análisis de Datos en Organizaciones, Universidad de Buenos Aires (2026).
+- Magíster en Políticas Públicas y Desarrollo, FLACSO Argentina (2026).
+- Magíster en Explotación de Datos y Gestión del Conocimiento, Universidad Austral (2025).
+- Posdoctorado en Retos Poblacionales Actuales, Universidad Nacional de Córdoba (2022).
+- Licenciado en Economía, Universidad Nacional de Misiones (2008). Diploma de honor y Premio Héctor Alejandro Chemes al mejor promedio.
+
+**En curso**
+
+- Doctorado en Estadística, Universidad Nacional de Rosario.
+- Posdoctorado en Inteligencia Artificial y sus Aplicaciones en Ciencias Sociales, Universidad Nacional de Córdoba.
+- Maestría en Políticas Económicas, Sociales y Regionales, Universidad Nacional de Córdoba.
+
+Matrícula profesional de economista LE23, Consejo Profesional de Ciencias Económicas de la Provincia de Misiones.
+
+## Docencia
+
+Desde 2008 enseño en carreras de grado y posgrado en universidades de Argentina y Paraguay. Actualmente dicto Probabilidad y Estadística, Economía y Costos, Investigación Operativa y Proyecto Final de Grado en la Universidad de la Cuenca del Plata, y Metodología Cuantitativa, Metodología Cualitativa y Economía Política Internacional en la Universidad Católica de Santa Fe. He sido docente en la Universidad Tecnológica Nacional, la Universidad Austral, la Universidad Gastón Dachary, la Universidad Siglo 21, la Universidad Nacional de Misiones y la Universidad Autónoma de Encarnación, y he dictado cursos para la Sociedad Argentina de Estadística.
+
+## Investigación y gestión académica
+
+- Director técnico del Observatorio de Desarrollo Económico de Misiones, Universidad Gastón Dachary (2019-2022).
+- Coordinador académico e integrante de la Comisión Académica del Doctorado en Desarrollo Sustentable e Integración, Universidad Gastón Dachary (2019-2022).
+- Investigador del área Economía del Centro de Estudios Científicos y Técnicos de la Federación Argentina de Consejos Profesionales de Ciencias Económicas (2019-2021).
+- Director de proyecto de I+D sobre el impacto de la pandemia en el sector hotelero y gastronómico de Misiones (2020-2022).
+- Director de tesis de doctorado y de trabajos finales de grado; jurado de tesis y evaluador de artículos científicos.
+- Becario de la Agencia Nacional de Promoción Científica y Tecnológica (2009-2013).
+
+**Líneas de trabajo:** ciencia de datos aplicada, diseño muestral y métodos de encuesta, medición de la eficiencia y la productividad, competitividad y desarrollo regional, resiliencia económica y progreso social, economía del comportamiento y economía de la energía.
+
+## Publicaciones seleccionadas
+
+- Díaz, D. E. (2023). La escasez ecológica como problema de la economía ambiental. Propuesta de un modelo de utilización de la tierra aplicado a los servicios ecosistémicos del capital natural. *SaberEs*, 15(2), 195-219.
+- Díaz, D. E. (2022). El progreso social, el individualismo y el enfoque de capacidades: el rol de las estructuras sociales, grupos e instituciones. *Revista de Economía Política de Buenos Aires*, 25, 9-36.
+- Díaz, D. E. y Ojeda, M. N. (2020). Estimación de la brecha de ingresos entre la mujer y el hombre. *Revista Electrónica Iberoamericana*, 14(1), 77-117.
+- Díaz, D. E., Alvarez, B. M. y Ojeda, N. M. (2020). Competitividad regional y desarrollo económico: una breve revisión de la literatura económica moderna. *Revista de Economía Política de Buenos Aires*, 20(14), 109-153.
+- Díaz, D. E. (2013). La distribución eléctrica en Argentina y su eficiencia técnica: una aplicación del análisis de fronteras estocásticas (SFA) utilizando funciones distancia. *Revista de Economía y Estadística*, 51(1), 85-118.
+
+Idiomas: español nativo; inglés y portugués, lectocomprensión y traducción.
+
+[Trabajemos juntos →](contacto.qmd){.btn-principal}

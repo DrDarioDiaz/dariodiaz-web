@@ -1,0 +1,37 @@
+---
+title: "Contacto"
+subtitle: "Cuénteme su proyecto y le respondo con una propuesta"
+description: "Contacto para consultorías, diseño de encuestas, análisis de datos y capacitaciones."
+---
+
+La primera conversación no tiene costo. Para preparar una propuesta útil me ayuda saber, en pocas líneas, qué decisión necesita tomar su organización, con qué datos cuenta hoy y en qué plazo necesita resultados.
+
+```{=html}
+<div class="cta" style="display:flex;gap:.8rem;flex-wrap:wrap;margin:1.6rem 0 2rem;">
+  <a class="btn-principal" href="mailto:drdarioezequieldiaz@gmail.com?subject=Consulta%20desde%20el%20sitio%20web">Escribir un correo</a>
+  <a class="btn-secundario" href="https://www.linkedin.com/in/dr-dario-ezequiel-diaz/" target="_blank" rel="noopener">Escribir por LinkedIn</a>
+</div>
+```
+
+**Correo:** [drdarioezequieldiaz@gmail.com](mailto:drdarioezequieldiaz@gmail.com)<br>
+**Ubicación:** Posadas, Misiones, Argentina. Trabajo presencial en la región y remoto en todo el país.
+
+<!-- Formulario opcional (Formspree, plan gratuito). Crear el formulario en https://formspree.io,
+     reemplazar TU-ID-FORMSPREE y quitar los símbolos de comentario.
+```{=html}
+<form action="https://formspree.io/f/TU-ID-FORMSPREE" method="POST" style="max-width:36rem;display:grid;gap:.8rem;">
+  <label>Nombre y organización<input type="text" name="nombre" required class="form-control"></label>
+  <label>Correo electrónico<input type="email" name="email" required class="form-control"></label>
+  <label>¿En qué puedo ayudarle?<textarea name="mensaje" rows="6" required class="form-control"></textarea></label>
+  <button type="submit" class="btn-principal" style="border:none;">Enviar consulta</button>
+</form>
+```
+-->
+
+## Datos fiscales
+
+Darío Ezequiel Díaz · Monotributista · CUIT 20-30398441-1 · Emite factura C.
+
+::: {.nota-independencia}
+Antes de enviar información sensible, le propongo firmar un acuerdo de confidencialidad. Los alcances de mi actividad están detallados en la [declaración de independencia y confidencialidad](independencia.qmd).
+:::

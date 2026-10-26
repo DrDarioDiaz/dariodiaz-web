@@ -1,0 +1,39 @@
+---
+title: "Siete errores frecuentes al redactar un cuestionario"
+subtitle: "Revisión de un formulario de satisfacción antes de salir a campo"
+description: "Ejemplos de preguntas sesgadas, ambiguas o dobles, con su corrección y la razón metodológica de cada cambio."
+date: 2026-10-24
+categories: [Diseño de cuestionarios, Encuestas]
+---
+
+## El encargo
+
+Una cooperativa de servicios preparó, con buena voluntad y sin asesoramiento, un formulario en línea para medir la satisfacción de sus asociados. Antes de enviarlo a varios miles de personas, pidió una revisión. Las preguntas que siguen son representativas de lo encontrado; cada una se acompaña de su corrección y del motivo del cambio.
+
+Una pregunta mal formulada no se arregla después con estadística. El sesgo que introduce queda en los datos, y ningún modelo, por sofisticado que sea, puede distinguirlo de la opinión genuina de quien responde.
+
+## Los errores y sus correcciones
+
+| Pregunta original | Problema | Versión revisada |
+|---|---|---|
+| ¿Está satisfecho con la atención y los precios de la cooperativa? | **Pregunta doble.** Quien está conforme con la atención y disconforme con los precios no tiene cómo responder. | Dos preguntas separadas, una para la atención y otra para los precios. |
+| ¿No cree usted que el nuevo horario mejoró el servicio? | **Pregunta inductiva.** La forma negativa y la presuposición empujan hacia el acuerdo. | ¿Cómo evalúa el nuevo horario de atención en comparación con el anterior? *Mejor / Igual / Peor / No lo conozco* |
+| ¿Con qué frecuencia usa la aplicación? *Mucho / Bastante / Poco* | **Categorías vagas.** "Mucho" significa cosas distintas para cada persona y falta la opción de no uso. | En el último mes, ¿cuántas veces usó la aplicación? *Ninguna / 1 o 2 / 3 a 5 / 6 o más* |
+| Edad: *18-30 / 30-45 / 45-60 / 60 o más* | **Categorías superpuestas.** Quien tiene 30 o 45 años puede marcar dos opciones. | *18 a 29 / 30 a 44 / 45 a 59 / 60 o más*, o directamente la edad en años. |
+| Del 1 al 10, ¿qué tan satisfecho está? (sin rótulos) | **Escala sin anclas.** No se sabe si el 1 es el mejor o el peor valor ni qué significa el punto medio. | Escala de 0 a 10 con extremos rotulados: *0 = nada satisfecho, 10 = totalmente satisfecho*. |
+| ¿Qué opina de la gestión del consejo y de la gerencia? (pregunta 3 de 40) | **Ubicación y carga.** Una pregunta sensible al comienzo condiciona el resto y un formulario largo eleva el abandono. | Preguntas generales primero, temas sensibles hacia el final y el formulario reducido a lo que se va a analizar. |
+| Todas las preguntas obligatorias | **Respuestas forzadas.** Obligar a responder lo que no se sabe produce datos inventados o abandono. | Opción "No sabe / No corresponde" donde tenga sentido y obligatoriedad solo en las preguntas filtro. |
+
+## Más allá de la redacción
+
+La revisión del formulario incluyó además tres decisiones que suelen pasarse por alto:
+
+1. **Plan de análisis antes que cuestionario.** Cada pregunta debe responder a un indicador que alguien va a usar. Las que no tenían destino se eliminaron, y el formulario pasó de 40 a 22 preguntas.
+2. **Prueba piloto.** Veinte asociados respondieron la versión revisada y se midió el tiempo de respuesta, los abandonos y las preguntas que generaron dudas, con un nuevo ajuste posterior.
+3. **Libro de códigos.** Cada variable quedó documentada con su nombre, su pregunta, sus categorías y sus valores especiales, lo que permite analizar la base sin ambigüedades y comparar futuras mediciones.
+
+## Qué recibe el cliente
+
+- El cuestionario revisado con un comentario por cada cambio, útil también como material de formación para el equipo.
+- El formulario digital configurado con filtros, saltos y validaciones.
+- El libro de códigos y el plan de tabulados, listos antes del trabajo de campo.
