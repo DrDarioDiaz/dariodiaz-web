@@ -77,12 +77,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-d466d15e0e21ad9f48f8132b44181650.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-22bc4dacf23df5949993f0fc9ad1638f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-15c16e6c0adc26348fdf46af2cb51e07.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,7 +268,7 @@ window.Quarto = {
 
 
 <section id="la-pregunta-del-cliente" class="level2">
-<h2 class="anchored" data-anchor-id="la-pregunta-del-cliente">La pregunta del cliente</h2>
+<h2 data-anchor-id="la-pregunta-del-cliente">La pregunta del cliente</h2>
 <p>Un distribuidor mayorista con 4.000 clientes activos quiere estimar cuánto prevén gastar sus clientes en la próxima temporada, con el fin de planificar compras y stock. Encuestar a todos resulta caro y lento. La pregunta concreta es doble: <strong>cuántos clientes encuestar</strong> para que el error sea aceptable y <strong>cómo repartir esa muestra</strong> entre comercios pequeños, medianos y grandes.</p>
 <p>Los datos de este caso son simulados, pero reproducen un rasgo típico de las carteras comerciales: unos pocos clientes grandes concentran buena parte de las compras y presentan, además, la mayor dispersión. El distribuidor cuenta con un activo valioso que a menudo se desaprovecha: su sistema de ventas registra cuánto compró cada cliente el año anterior, y esa información sirve para planificar la muestra.</p>
 <div id="cell-poblacion" class="cell" data-execution_count="1">
@@ -363,7 +362,7 @@ window.Quarto = {
 <p>El cuadro muestra el problema: los clientes grandes son apenas el 7,5 % de la cartera, pero explican una porción del gasto muy superior y concentran la variabilidad.</p>
 </section>
 <section id="paso-1.-cuántas-respuestas-hacen-falta-según-cómo-se-diseñe-la-muestra" class="level2">
-<h2 class="anchored" data-anchor-id="paso-1.-cuántas-respuestas-hacen-falta-según-cómo-se-diseñe-la-muestra">Paso 1. Cuántas respuestas hacen falta según cómo se diseñe la muestra</h2>
+<h2 data-anchor-id="paso-1.-cuántas-respuestas-hacen-falta-según-cómo-se-diseñe-la-muestra">Paso 1. Cuántas respuestas hacen falta según cómo se diseñe la muestra</h2>
 <p>Se fija como meta un <strong>error relativo máximo del 5 %</strong> sobre el gasto medio, con un 95 % de confianza; es decir, que la estimación no se aparte en más de un 5 % del valor verdadero en 19 de cada 20 muestras. Las varianzas de planificación se toman de las compras del año anterior, disponibles para todos los clientes del marco.</p>
 <p>Con <span class="math inline">\(V_0 = \left(e_r\,\bar Y / z\right)^2\)</span> como varianza máxima admisible, los tamaños necesarios para cada diseño son</p>
 <p><span class="math display">\[
@@ -450,7 +449,7 @@ n_{\text{Neyman}} = \frac{\left(\sum_h W_h S_h\right)^2}{V_0 + \sum_h W_h S_h^2 
 <span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output cell-output-display">
-<div id="fig-tamanos" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-tamanos" class="quarto-float quarto-figure quarto-figure-center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-tamanos-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="diseno-muestral_files/figure-html/fig-tamanos-output-1.png" width="1184" height="432" class="figure-img">
@@ -465,7 +464,7 @@ Figura&nbsp;1: Respuestas efectivas necesarias para un error relativo del 5 % co
 <p>El resultado cambia por completo la conversación con el cliente. Un muestreo aleatorio simple exigiría encuestar a más de la mitad de la cartera, lo que en la práctica equivale a un censo. Estratificar por tamaño sin más ayuda poco, porque la asignación proporcional sigue destinando la mayoría de las encuestas a los comercios pequeños, donde casi no hay variabilidad. La asignación de Neyman obtiene la misma precisión con una fracción de las respuestas.</p>
 </section>
 <section id="paso-2.-a-quiénes-encuestar" class="level2">
-<h2 class="anchored" data-anchor-id="paso-2.-a-quiénes-encuestar">Paso 2. A quiénes encuestar</h2>
+<h2 data-anchor-id="paso-2.-a-quiénes-encuestar">Paso 2. A quiénes encuestar</h2>
 <div id="cell-asignacion" class="cell" data-execution_count="4">
 <details class="code-fold">
 <summary>Ver código</summary>
@@ -540,7 +539,7 @@ Figura&nbsp;1: Respuestas efectivas necesarias para un error relativo del 5 % co
 <p>La asignación invierte la intuición habitual: los clientes grandes, apenas el 7,5 % de la cartera, reciben la mitad de la muestra, y con una tasa de respuesta del 70 % conviene directamente <strong>contactarlos a todos</strong>. En la jerga del muestreo se trata de un estrato de inclusión forzosa. Los factores de expansión resultantes permiten llevar los resultados al total de la cartera.</p>
 </section>
 <section id="paso-3.-verificación-por-simulación" class="level2">
-<h2 class="anchored" data-anchor-id="paso-3.-verificación-por-simulación">Paso 3. Verificación por simulación</h2>
+<h2 data-anchor-id="paso-3.-verificación-por-simulación">Paso 3. Verificación por simulación</h2>
 <p>Las fórmulas se apoyaron en las compras del año anterior y no en el gasto previsto, que es lo que se quiere medir. Para comprobar que el diseño cumple su promesa, se extraen 3.000 muestras con la asignación de Neyman y se mide el error efectivamente obtenido sobre la variable de interés.</p>
 <div id="cell-fig-simulacion" class="cell" data-execution_count="5">
 <details class="code-fold">
@@ -566,7 +565,7 @@ Figura&nbsp;1: Respuestas efectivas necesarias para un error relativo del 5 % co
 <span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output cell-output-display">
-<div id="fig-simulacion" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-simulacion" class="quarto-float quarto-figure quarto-figure-center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-simulacion-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="diseno-muestral_files/figure-html/fig-simulacion-output-1.png" width="1264" height="592" class="figure-img">
@@ -581,7 +580,7 @@ Figura&nbsp;2: Distribución del gasto medio estimado en 3.000 muestras con asig
 <p>El 96,7 % de las muestras simuladas queda dentro de la banda de ±5 % alrededor del valor verdadero, algo por encima del 95 % buscado: las compras pasadas son un poco más dispersas que el gasto previsto, de modo que el cálculo resultó levemente conservador. Si el gasto previsto resultara menos parecido a las compras pasadas de lo supuesto, la precisión se degradaría, y por eso la memoria metodológica deja asentado ese supuesto junto con un margen de seguridad recomendado.</p>
 </section>
 <section id="qué-recibe-el-cliente" class="level2">
-<h2 class="anchored" data-anchor-id="qué-recibe-el-cliente">Qué recibe el cliente</h2>
+<h2 data-anchor-id="qué-recibe-el-cliente">Qué recibe el cliente</h2>
 <ul>
 <li>El tamaño de muestra justificado y el número de clientes a contactar, con el margen de error que puede garantizarse.</li>
 <li>La asignación por estrato y el listado de clientes seleccionados, con un plan de reemplazos para la no respuesta.</li>
@@ -595,13 +594,6 @@ Figura&nbsp;2: Distribución del gasto medio estimado en 3.000 muestras con asig
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

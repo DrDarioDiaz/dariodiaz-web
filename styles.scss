@@ -315,3 +315,21 @@ html { overflow-x: clip; }
 }
 .quarto-grid-item .listing-item-img-placeholder, .quarto-grid-item .card-img-top { background: $papel; }
 .quarto-grid-item img.thumbnail-image, .quarto-grid-item .card-img-top img { object-fit: contain !important; background: $papel; }
+
+/* Tarjetas de cursos clicables y aviso en Contacto */
+a.tarjeta-curso {
+  display: flex; flex-direction: column; text-decoration: none; color: $tinta;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  h3 { color: $tinta; }
+  p { flex: 1; }
+  .consultar { margin-top: .8rem; font-weight: 600; font-size: .92rem; color: $selva; }
+  &:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(28,39,51,.10); border-color: rgba(31,111,87,.45); color: $tinta; }
+  &:hover .consultar { color: $tierra; }
+}
+.aviso-curso {
+  display: grid; gap: .25rem; margin: 1.4rem 0 .4rem; padding: 1rem 1.2rem;
+  background: #eef4f1; border-left: 4px solid $selva; border-radius: 0 10px 10px 0; color: $tinta-suave;
+  .aviso-kicker { font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: $selva; font-weight: 600; }
+  strong { font-family: $headings-font-family; font-size: 1.25rem; color: $tinta; }
+}
+.aviso-curso[hidden] { display: none; }

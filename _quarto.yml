@@ -61,6 +61,7 @@ format:
     theme:
       light: [flatly, styles.scss]
     toc: false
+    anchor-sections: false
     title-block-banner: true
     smooth-scroll: true
     code-fold: true

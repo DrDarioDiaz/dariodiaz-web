@@ -77,12 +77,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-d466d15e0e21ad9f48f8132b44181650.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-22bc4dacf23df5949993f0fc9ad1638f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-15c16e6c0adc26348fdf46af2cb51e07.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,7 +268,7 @@ window.Quarto = {
 
 
 <section id="el-problema" class="level2">
-<h2 class="anchored" data-anchor-id="el-problema">El problema</h2>
+<h2 data-anchor-id="el-problema">El problema</h2>
 <p>Una empresa de servicios con 60 sucursales, 45 en el interior y 15 en la capital, encarga una encuesta de clima laboral. Por razones de costo no se visitan todas las sucursales: se eligen al azar 8 del interior y 6 de la capital, y en cada una se encuesta a todo el personal. La capital queda así sobrerrepresentada, y además los empleados de una misma sucursal tienden a responder de manera parecida.</p>
 <p>Con frecuencia, la base resultante se analiza como si fuera una muestra aleatoria simple: un porcentaje sin ponderar y un margen de error de manual. Este caso muestra cuánto puede equivocarse ese atajo, tanto en el valor estimado como en la incertidumbre que se le atribuye.</p>
 <div id="cell-datos" class="cell" data-execution_count="1">
@@ -356,7 +355,7 @@ window.Quarto = {
 <p>Cada persona encuestada del interior representa a 5,62 personas, mientras que cada una de la capital representa a 2,5. Ignorar esa diferencia equivale a darle a la capital más voz de la que tiene en la empresa.</p>
 </section>
 <section id="estimación-ingenua-y-estimación-según-el-diseño" class="level2">
-<h2 class="anchored" data-anchor-id="estimación-ingenua-y-estimación-según-el-diseño">Estimación ingenua y estimación según el diseño</h2>
+<h2 data-anchor-id="estimación-ingenua-y-estimación-según-el-diseño">Estimación ingenua y estimación según el diseño</h2>
 <p>La proporción ponderada es un estimador de razón, <span class="math inline">\(\hat p = \sum_i w_i y_i / \sum_i w_i\)</span>. Su varianza se aproxima por linealización, agregando las variables linealizadas <span class="math inline">\(z_i = w_i (y_i - \hat p)/\sum_i w_i\)</span> por sucursal, que constituye la unidad primaria de muestreo, y midiendo su variabilidad dentro de cada región:</p>
 <p><span class="math display">\[
 \hat V(\hat p) = \sum_h \left(1 - \frac{n_h}{N_h}\right) \frac{n_h}{n_h - 1} \sum_{c=1}^{n_h} \left(z_{hc} - \bar z_h\right)^2 .
@@ -444,7 +443,7 @@ window.Quarto = {
 <p>Dos diferencias saltan a la vista. La primera está en la estimación misma: el promedio simple sobrestima la satisfacción en unos 5 puntos porcentuales, porque da a la capital, más satisfecha, un peso que no tiene en la empresa. La segunda está en la incertidumbre: el efecto de diseño de esta muestra es de 1,5, lo que significa que las 329 entrevistas aportan tanta información como unas 216 entrevistas obtenidas por muestreo aleatorio simple. Los empleados de una misma sucursal se parecen entre sí, y cada respuesta adicional dentro de la sucursal agrega menos información nueva.</p>
 </section>
 <section id="qué-método-acierta" class="level2">
-<h2 class="anchored" data-anchor-id="qué-método-acierta">¿Qué método acierta?</h2>
+<h2 data-anchor-id="qué-método-acierta">¿Qué método acierta?</h2>
 <p>Una sola muestra no alcanza para juzgar un método. Por eso se repite el procedimiento completo en 2.000 muestras y se cuenta con qué frecuencia cada intervalo de confianza del 95 % contiene la verdadera proporción de empleados satisfechos.</p>
 <div id="cell-fig-cobertura" class="cell" data-execution_count="3">
 <details class="code-fold">
@@ -478,7 +477,7 @@ window.Quarto = {
 <span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output cell-output-display">
-<div id="fig-cobertura" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-cobertura" class="quarto-float quarto-figure quarto-figure-center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-cobertura-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="encuesta-ponderada_files/figure-html/fig-cobertura-output-1.png" width="1110" height="493" class="figure-img">
@@ -493,7 +492,7 @@ Figura&nbsp;1: Cobertura real de los intervalos de confianza nominales del 95 % 
 <p>El intervalo ingenuo promete un 95 % de confianza y acierta solo en el 62 % de las muestras: combina un sesgo, porque sobrerrepresenta a la capital, con un error estándar demasiado optimista. A lo largo de las repeticiones, el efecto de diseño promedio ronda 2,3. El intervalo que respeta el diseño alcanza una cobertura del 94 %, muy próxima a la nominal; la pequeña diferencia restante proviene de trabajar con apenas 14 sucursales, y por eso en estos casos conviene informar también cuántas unidades primarias sostienen cada estimación.</p>
 </section>
 <section id="qué-recibe-el-cliente" class="level2">
-<h2 class="anchored" data-anchor-id="qué-recibe-el-cliente">Qué recibe el cliente</h2>
+<h2 data-anchor-id="qué-recibe-el-cliente">Qué recibe el cliente</h2>
 <ul>
 <li>Estimaciones ponderadas con márgenes de error honestos, también para subgrupos como regiones, áreas o antigüedad.</li>
 <li>Un tabulado que marca qué diferencias son estadísticamente significativas y cuáles no.</li>
@@ -507,13 +506,6 @@ Figura&nbsp;1: Cobertura real de los intervalos de confianza nominales del 95 % 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

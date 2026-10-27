@@ -16,73 +16,60 @@ Con más de dieciocho años de experiencia docente en probabilidad, estadística
 
 ## Catálogo
 
-::: {.tarjetas}
+Haga clic en un curso para consultar por él: la página de contacto lo reconoce y prepara el correo con el nombre del curso.
 
-::: {.tarjeta}
-[Inicial · 12 h]{.num}
-
-### Estadística para decidir
-
-Para quienes no son especialistas: leer datos, interpretar promedios, porcentajes, márgenes de error y gráficos sin caer en trampas frecuentes.
-:::
-
-::: {.tarjeta}
-[Intermedio · 16 h]{.num}
-
-### Muestreo y diseño de encuestas
-
-Tamaño de muestra, estratificación, conglomerados, ponderación y no respuesta, con ejercicios sobre relevamientos reales.
-:::
-
-::: {.tarjeta}
-[Inicial · 8 h]{.num}
-
-### Diseño de cuestionarios
-
-Cómo formular preguntas, construir escalas, evitar sesgos de redacción e implementar formularios digitales confiables.
-:::
-
-::: {.tarjeta}
-[Inicial · 20 h]{.num}
-
-### Análisis de datos con R o Python
-
-Desde cero hasta el informe reproducible: importación, limpieza, visualización y tabulados.
-:::
-
-::: {.tarjeta}
-[Intermedio · 24 h]{.num}
-
-### Ciencia de datos aplicada
-
-Regresión, clasificación, árboles y ensambles, validación cruzada y comunicación de resultados para el negocio.
-:::
-
-::: {.tarjeta}
-[Inicial · 8 h]{.num}
-
-### IA generativa para el trabajo con datos
-
-Uso responsable de asistentes de IA para programar, analizar y redactar, con criterios de verificación y de protección de datos.
-:::
-
-::: {.tarjeta}
-[Avanzado · 20 h]{.num}
-
-### Econometría y series de tiempo
-
-Modelos de regresión, datos de panel, pronósticos y evaluación de impacto para analistas y economistas.
-:::
-
-::: {.tarjeta}
-[Avanzado · 16 h]{.num}
-
-### Aprendizaje por refuerzo
-
-Fundamentos y aplicaciones de agentes que aprenden por interacción, con implementación en Python.
-:::
-
-:::
+```{=html}
+<div class="tarjetas">
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Estad%C3%ADstica%20para%20decidir">
+ <span class="num">Inicial · 12 h</span>
+ <h3>Estadística para decidir</h3>
+ <p>Para quienes no son especialistas: leer datos, interpretar promedios, porcentajes, márgenes de error y gráficos sin caer en trampas frecuentes.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Muestreo%20y%20dise%C3%B1o%20de%20encuestas">
+ <span class="num">Intermedio · 16 h</span>
+ <h3>Muestreo y diseño de encuestas</h3>
+ <p>Tamaño de muestra, estratificación, conglomerados, ponderación y no respuesta, con ejercicios sobre relevamientos reales.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Dise%C3%B1o%20de%20cuestionarios">
+ <span class="num">Inicial · 8 h</span>
+ <h3>Diseño de cuestionarios</h3>
+ <p>Cómo formular preguntas, construir escalas, evitar sesgos de redacción e implementar formularios digitales confiables.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=An%C3%A1lisis%20de%20datos%20con%20R%20o%20Python">
+ <span class="num">Inicial · 20 h</span>
+ <h3>Análisis de datos con R o Python</h3>
+ <p>Desde cero hasta el informe reproducible: importación, limpieza, visualización y tabulados.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Ciencia%20de%20datos%20aplicada">
+ <span class="num">Intermedio · 24 h</span>
+ <h3>Ciencia de datos aplicada</h3>
+ <p>Regresión, clasificación, árboles y ensambles, validación cruzada y comunicación de resultados para el negocio.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=IA%20generativa%20para%20el%20trabajo%20con%20datos">
+ <span class="num">Inicial · 8 h</span>
+ <h3>IA generativa para el trabajo con datos</h3>
+ <p>Uso responsable de asistentes de IA para programar, analizar y redactar, con criterios de verificación y de protección de datos.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Econometr%C3%ADa%20y%20series%20de%20tiempo">
+ <span class="num">Avanzado · 20 h</span>
+ <h3>Econometría y series de tiempo</h3>
+ <p>Modelos de regresión, datos de panel, pronósticos y evaluación de impacto para analistas y economistas.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+<a class="tarjeta tarjeta-curso" href="contacto.html?curso=Aprendizaje%20por%20refuerzo">
+ <span class="num">Avanzado · 16 h</span>
+ <h3>Aprendizaje por refuerzo</h3>
+ <p>Fundamentos y aplicaciones de agentes que aprenden por interacción, con implementación en Python.</p>
+ <span class="consultar">Consultar por este curso →</span>
+</a>
+</div>
+```
 
 ## Antecedentes recientes
 

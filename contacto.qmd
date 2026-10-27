@@ -7,10 +7,31 @@ description: "Contacto para consultorías, diseño de encuestas, análisis de da
 La primera conversación no tiene costo. Para preparar una propuesta útil me ayuda saber, en pocas líneas, qué decisión necesita tomar su organización, con qué datos cuenta hoy y en qué plazo necesita resultados.
 
 ```{=html}
+<div id="aviso-curso" class="aviso-curso" hidden>
+  <span class="aviso-kicker">Consulta por un curso</span>
+  <strong id="aviso-curso-nombre"></strong>
+  <span>El botón de correo ya incluye el nombre del curso. Cuénteme cuántas personas participarían, en qué modalidad (presencial o virtual) y para qué fechas aproximadas.</span>
+</div>
 <div class="cta" style="display:flex;gap:.8rem;flex-wrap:wrap;margin:1.6rem 0 2rem;">
-  <a class="btn-principal" href="mailto:drdarioezequieldiaz@gmail.com?subject=Consulta%20desde%20el%20sitio%20web">Escribir un correo</a>
+  <a class="btn-principal" id="btn-correo" href="mailto:drdarioezequieldiaz@gmail.com?subject=Consulta%20desde%20el%20sitio%20web">Escribir un correo</a>
   <a class="btn-secundario" href="https://www.linkedin.com/in/dr-dario-ezequiel-diaz/" target="_blank" rel="noopener">Escribir por LinkedIn</a>
 </div>
+<script>
+(function () {
+  var curso = new URLSearchParams(window.location.search).get('curso');
+  if (!curso) return;
+  curso = curso.slice(0, 120);
+  var aviso = document.getElementById('aviso-curso');
+  document.getElementById('aviso-curso-nombre').textContent = curso;
+  aviso.hidden = false;
+  var correo = 'drdarioezequieldiaz@gmail.com';
+  var asunto = 'Consulta por el curso: ' + curso;
+  var cuerpo = 'Hola, Darío:\n\nMe interesa el curso "' + curso + '".\n\n' +
+               'Organización: \nCantidad de participantes: \nModalidad (presencial o virtual): \nFechas tentativas: \n\nSaludos.';
+  document.getElementById('btn-correo').href = 'mailto:' + correo +
+    '?subject=' + encodeURIComponent(asunto) + '&body=' + encodeURIComponent(cuerpo);
+})();
+</script>
 ```
 
 **Correo:** [drdarioezequieldiaz@gmail.com](mailto:drdarioezequieldiaz@gmail.com)<br>
