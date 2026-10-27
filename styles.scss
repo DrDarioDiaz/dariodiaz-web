@@ -333,3 +333,24 @@ a.tarjeta-curso {
   strong { font-family: $headings-font-family; font-size: 1.25rem; color: $tinta; }
 }
 .aviso-curso[hidden] { display: none; }
+
+/* Celular y tablet: foto centrada y los tres mini gráficos en una tira debajo, todos visibles */
+@media (max-width: 860px) {
+  .hero2-visual {
+    aspect-ratio: auto; max-width: 520px; width: 100%; margin: 0 auto;
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: .55rem; align-items: stretch;
+    .orbita { display: none; }
+    .hero-foto {
+      position: static; transform: none; grid-column: 1 / -1; justify-self: center;
+      width: 168px; height: 168px; border-width: 5px; margin-bottom: .6rem;
+    }
+  }
+  .chip, .chip-a, .chip-b, .chip-c {
+    display: flex !important; flex-direction: column; position: static; width: auto;
+    animation: none; padding: .5rem .55rem .45rem; border-radius: 10px;
+    box-shadow: 0 6px 16px rgba(28,39,51,.10);
+  }
+  .chip .chip-t { font-size: .6rem; letter-spacing: .04em; line-height: 1.25; min-height: 1.5em; }
+  .chip svg { margin: .3rem 0 .2rem; flex: 1; }
+  .chip .chip-v { font-size: .8rem; white-space: normal; line-height: 1.2; }
+}
