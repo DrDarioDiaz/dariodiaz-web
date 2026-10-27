@@ -16,7 +16,7 @@ image: img/og.jpg
   <div class="hero2-texto">
    <div class="kicker">Doctor en Economía · Científico de datos · Estadístico</div>
    <h1>Datos bien medidos,<br><span class="resalte">decisiones bien fundadas.</span></h1>
-   <p class="lead">Acompaño a empresas, cámaras, cooperativas, consultoras y organizaciones privadas en todo el ciclo de la información: desde el diseño de la muestra y del cuestionario hasta el análisis, el modelo predictivo y la formación de sus equipos.</p>
+   <p class="lead">Acompaño a empresas, cámaras, cooperativas, consultoras y organizaciones privadas en todo el ciclo de la información: desde el diseño de la muestra y del cuestionario hasta el análisis y el modelo predictivo. También formo a sus equipos para que puedan continuar por su cuenta.</p>
    <div class="cta">
     <a class="btn-principal" href="contacto.html">Conversemos sobre su proyecto</a>
     <a class="btn-secundario" href="portfolio/index.html">Ver casos de trabajo</a>

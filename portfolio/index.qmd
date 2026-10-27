@@ -15,4 +15,4 @@ listing:
   grid-columns: 2
 ---
 
-Estos casos muestran cómo abordo problemas frecuentes en las organizaciones. Todos utilizan datos simulados o fuentes públicas, nunca información de clientes, y el código completo de cada uno puede desplegarse con el botón **Ver código** y está disponible en mi repositorio de GitHub.
+Estos casos muestran cómo abordo problemas frecuentes en las organizaciones. Todos utilizan datos simulados o fuentes públicas, nunca información de clientes.

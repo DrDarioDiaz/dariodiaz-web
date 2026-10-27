@@ -4,7 +4,7 @@ subtitle: "Formación a medida en estadística, muestreo, ciencia de datos e int
 description: "Catálogo de cursos y capacitaciones in company, presenciales y virtuales."
 ---
 
-Llevo más de dieciocho años enseñando probabilidad, estadística, econometría, ciencia de datos y metodología en carreras de grado y de posgrado, y he dictado cursos de extensión para la Sociedad Argentina de Estadística y seminarios de posgrado. Esa experiencia se traduce en capacitaciones que parten de los problemas concretos de cada organización y terminan con el equipo capaz de resolverlos por su cuenta.
+Con más de dieciocho años de experiencia docente en probabilidad, estadística, econometría, ciencia de datos y metodología, en carreras de grado y de posgrado, y con cursos de extensión dictados para la Sociedad Argentina de Estadística, diseño capacitaciones que parten de los problemas concretos de cada organización. El objetivo es que, al terminar, el equipo pueda resolverlos por su cuenta.
 
 ## Modalidades
 
@@ -84,7 +84,7 @@ Fundamentos y aplicaciones de agentes que aprenden por interacción, con impleme
 
 :::
 
-## Antecedentes docentes recientes
+## Antecedentes recientes
 
 - Cursos de *Introducción a Python*, *Aprendizaje por refuerzo* y *Medición de la pobreza* para la Sociedad Argentina de Estadística (2025).
 - Seminario de posgrado *Aprendizaje por refuerzo*, Universidad Austral (2026).
