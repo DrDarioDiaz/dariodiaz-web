@@ -79,4 +79,16 @@ ax.legend([plt.Rectangle((0, 0), 1, 1, color=c) for c in colores],
           loc="lower center", bbox_to_anchor=(0.5, -0.18), handlelength=1)
 guardar(fig, "cuestionario.png")
 
+# 4. Abandono de clientes: facturación perdida alcanzada llamando al 20 % de la cartera
+fig, ax = lienzo()
+criterios = ["Al azar", "Mayor\nprobabilidad", "Más días\nsin comprar", "Valor en\nriesgo"]
+captura = [20, 7, 25, 53]
+barras = ax.bar(criterios, captura, color=[GRIS, GRIS, GRIS, SELVA], width=0.62)
+ax.bar_label(barras, labels=[f"{v} %" for v in captura], padding=6, fontsize=20, fontweight="bold", color=TINTA)
+ax.set_ylim(0, 64)
+ax.set_yticks([])
+ax.spines["left"].set_visible(False)
+ax.set_title("Pérdida alcanzada llamando al 20 % de clientes", loc="left", color=SUAVE, fontsize=15, pad=12)
+guardar(fig, "abandono-clientes.png")
+
 print("Miniaturas generadas en", DESTINO)
